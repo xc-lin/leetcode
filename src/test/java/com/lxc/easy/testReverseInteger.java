@@ -9,7 +9,7 @@ public class testReverseInteger {
         System.out.println(reverseInteger.reverseBest(-188));
     }
     @Test
-    public void testreverseByString(){
+    public void testReverseByString(){
         ReverseInteger reverseInteger= new ReverseInteger();
         System.out.println(reverseInteger.reverseByString(-188));
     }
