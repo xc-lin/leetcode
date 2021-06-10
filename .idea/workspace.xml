@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment=" add remove LinkList element and ReverseLinkedList">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/easy/RemoveLinkedListElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/easy/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/util/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/easy/testRemoveElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/easy/testReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/easy/SummaryRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/easy/testSummaryRanges.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lxc/easy/testReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lxc/easy/testReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lxc/easy/testReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lxc/easy/testReverseInteger.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,16 +56,14 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testRemoveElements.testRemoveElements">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.testSummaryRanges.testSummaryRangesBest">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,22 +79,6 @@
       <option name="PACKAGE_NAME" value="com.lxc.easy" />
       <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testRemoveElements" />
       <option name="METHOD_NAME" value="testRemoveElements" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testReverseInteger.testReverseIntegerBest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testReverseInteger" />
-      <option name="METHOD_NAME" value="testReverseIntegerBest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,7 +116,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testTwoSum.testTwoSumBest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testSummaryRanges.testSummaryRanges" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +125,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lxc.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testTwoSum" />
-      <option name="METHOD_NAME" value="testTwoSumBest" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testSummaryRanges" />
+      <option name="METHOD_NAME" value="testSummaryRanges" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSummaryRanges.testSummaryRangesBest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.easy" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testSummaryRanges" />
+      <option name="METHOD_NAME" value="testSummaryRangesBest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -165,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.testSummaryRanges.testSummaryRangesBest" />
+        <item itemvalue="JUnit.testSummaryRanges.testSummaryRanges" />
         <item itemvalue="JUnit.testRemoveElements.testRemoveElements" />
         <item itemvalue="JUnit.testReverseLinkedList.testReverseList" />
         <item itemvalue="JUnit.testReverseInteger.testreverseByString" />
-        <item itemvalue="JUnit.testReverseInteger.testReverseIntegerBest" />
-        <item itemvalue="JUnit.testTwoSum.testTwoSumBest" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +167,9 @@
       <option name="presentableId" value="Default" />
       <updated>1623146286325</updated>
       <workItem from="1623146287507" duration="3165000" />
-      <workItem from="1623162160994" duration="326000" />
+      <workItem from="1623162160994" duration="1031000" />
+      <workItem from="1623204118941" duration="299000" />
+      <workItem from="1623335060490" duration="2321000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -191,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623148111220</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" add remove LinkList element and ReverseLinkedList">
+      <created>1623162507598</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623162507598</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,5 +207,21 @@
     <MESSAGE value="11" />
     <MESSAGE value=" add remove LinkList element and ReverseLinkedList" />
     <option name="LAST_COMMIT_MESSAGE" value=" add remove LinkList element and ReverseLinkedList" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/easy/SummaryRanges.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/easy/SummaryRanges.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
