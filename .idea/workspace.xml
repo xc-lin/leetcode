@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment=" add remove LinkList element and ReverseLinkedList">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/easy/SummaryRanges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/easy/testSummaryRanges.java" afterDir="false" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add summeryRanges">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/PerfectSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/testAddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/testPerfectSquares.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +58,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testSummaryRanges.testSummaryRangesBest">
+  <component name="RunManager" selected="JUnit.testAddTwoNumbers.testAddTwoNumbers">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -64,6 +66,38 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testAddTwoNumbers.testAddTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testAddTwoNumbers" />
+      <option name="METHOD_NAME" value="testAddTwoNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testPerfectSquares.testNumSquares" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testPerfectSquares" />
+      <option name="METHOD_NAME" value="testNumSquares" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,38 +113,6 @@
       <option name="PACKAGE_NAME" value="com.lxc.easy" />
       <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testRemoveElements" />
       <option name="METHOD_NAME" value="testRemoveElements" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testReverseInteger.testreverseByString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testReverseInteger" />
-      <option name="METHOD_NAME" value="testreverseByString" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testReverseLinkedList.testReverseList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testReverseLinkedList" />
-      <option name="METHOD_NAME" value="testReverseList" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.testAddTwoNumbers.testAddTwoNumbers" />
+        <item itemvalue="JUnit.testPerfectSquares.testNumSquares" />
         <item itemvalue="JUnit.testSummaryRanges.testSummaryRangesBest" />
         <item itemvalue="JUnit.testSummaryRanges.testSummaryRanges" />
         <item itemvalue="JUnit.testRemoveElements.testRemoveElements" />
-        <item itemvalue="JUnit.testReverseLinkedList.testReverseList" />
-        <item itemvalue="JUnit.testReverseInteger.testreverseByString" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +171,9 @@
       <workItem from="1623146287507" duration="3165000" />
       <workItem from="1623162160994" duration="1031000" />
       <workItem from="1623204118941" duration="299000" />
-      <workItem from="1623335060490" duration="2321000" />
+      <workItem from="1623335060490" duration="2705000" />
+      <workItem from="1623418942015" duration="1437000" />
+      <workItem from="1623420442460" duration="3232000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -185,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623162507598</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add summeryRanges">
+      <created>1623337679675</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623337679675</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +217,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11" />
     <MESSAGE value=" add remove LinkList element and ReverseLinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value=" add remove LinkList element and ReverseLinkedList" />
+    <MESSAGE value="add summeryRanges" />
+    <option name="LAST_COMMIT_MESSAGE" value="add summeryRanges" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -217,11 +229,21 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/easy/SummaryRanges.java</url>
-          <line>46</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/PerfectSquares.java</url>
+          <line>7</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/AddTwoNumbers.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="l1.val" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
