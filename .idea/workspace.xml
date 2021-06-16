@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add summeryRanges">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/PerfectSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/testAddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/testPerfectSquares.java" afterDir="false" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add AddTwoNumbers PerfectSquares">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,16 +46,33 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testAddTwoNumbers.testAddTwoNumbers">
+  <component name="RunManager" selected="JUnit.testTwoSum.testTwoSumBest">
+    <configuration name="testAddTwoNumbers" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testAddTwoNumbers" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -78,6 +92,8 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="PACKAGE_NAME" value="com.lxc.medium" />
       <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testAddTwoNumbers" />
       <option name="METHOD_NAME" value="testAddTwoNumbers" />
@@ -102,7 +118,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testRemoveElements.testRemoveElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testTwoSum.testTwoSumBest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -111,14 +127,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lxc.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testRemoveElements" />
-      <option name="METHOD_NAME" value="testRemoveElements" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testTwoSum" />
+      <option name="METHOD_NAME" value="testTwoSumBest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testSummaryRanges.testSummaryRanges" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testTwoSum.testTwoSumForce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -127,36 +143,27 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lxc.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testSummaryRanges" />
-      <option name="METHOD_NAME" value="testSummaryRanges" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testTwoSum" />
+      <option name="METHOD_NAME" value="testTwoSumForce" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testSummaryRanges.testSummaryRangesBest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testSummaryRanges" />
-      <option name="METHOD_NAME" value="testSummaryRangesBest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Android JUnit.testAddTwoNumbers" />
+      <item itemvalue="JUnit.testAddTwoNumbers.testAddTwoNumbers" />
+      <item itemvalue="JUnit.testPerfectSquares.testNumSquares" />
+      <item itemvalue="JUnit.testTwoSum.testTwoSumForce" />
+      <item itemvalue="JUnit.testTwoSum.testTwoSumBest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.testTwoSum.testTwoSumBest" />
+        <item itemvalue="JUnit.testTwoSum.testTwoSumForce" />
         <item itemvalue="JUnit.testAddTwoNumbers.testAddTwoNumbers" />
+        <item itemvalue="Android JUnit.testAddTwoNumbers" />
         <item itemvalue="JUnit.testPerfectSquares.testNumSquares" />
-        <item itemvalue="JUnit.testSummaryRanges.testSummaryRangesBest" />
-        <item itemvalue="JUnit.testSummaryRanges.testSummaryRanges" />
-        <item itemvalue="JUnit.testRemoveElements.testRemoveElements" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +180,9 @@
       <workItem from="1623204118941" duration="299000" />
       <workItem from="1623335060490" duration="2705000" />
       <workItem from="1623418942015" duration="1437000" />
-      <workItem from="1623420442460" duration="3232000" />
+      <workItem from="1623420442460" duration="3620000" />
+      <workItem from="1623767466399" duration="1678000" />
+      <workItem from="1623770800740" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -196,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623337679675</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add AddTwoNumbers PerfectSquares">
+      <created>1623423744120</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623423744120</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +234,8 @@
     <MESSAGE value="11" />
     <MESSAGE value=" add remove LinkList element and ReverseLinkedList" />
     <MESSAGE value="add summeryRanges" />
-    <option name="LAST_COMMIT_MESSAGE" value="add summeryRanges" />
+    <MESSAGE value="add AddTwoNumbers PerfectSquares" />
+    <option name="LAST_COMMIT_MESSAGE" value="add AddTwoNumbers PerfectSquares" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -245,5 +262,14 @@
         <watch expression="l1.val" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$testAddTwoNumbers_testAddTwoNumbers.ic" NAME="testAddTwoNumbers.testAddTwoNumbers Coverage Results" MODIFIED="1623769959187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lxc.medium.*</FILTER>
+    </SUITE>
   </component>
 </project>
