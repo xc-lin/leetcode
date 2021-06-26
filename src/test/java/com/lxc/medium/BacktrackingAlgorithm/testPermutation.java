@@ -1,5 +1,6 @@
-package com.lxc.medium;
+package com.lxc.medium.BacktrackingAlgorithm;
 
+import com.lxc.medium.BacktrackingAlgorithm.Permutation;
 import org.junit.Test;
 
 import java.util.Arrays;

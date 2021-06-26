@@ -5,32 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add AddTwoNumbers PerfectSquares">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/easy/binary/ArrangingCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/easy/tree/BinaryTreePreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/BitOperation/BitwiseAndOfNumbersRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/GreedyAlgorithm/MonotoneIncreasingDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/GreedyAlgorithm/QueueReconstructionByHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/MinimumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/NextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/util/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/easy/binary/testArrangeCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/easy/tree/testBinaryTreePreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/BitOperation/testBitwiseAndOfNumbersRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/GreedyAlgorithm/testMonotoneIncreasingDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/GreedyAlgorithm/testQueueReconstructionByHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/testNextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/testPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/easy/tree/testBinaryTreePostorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/testCombinationSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/easy/tree/BinaryTreePostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/easy/tree/BinaryTreePostorderTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +59,20 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testBinaryTreePreorderTraversal">
+  <component name="RunManager" selected="Application.testCombinationSum">
+    <configuration name="testBinaryTreePostorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.tree.testBinaryTreePostorderTraversal" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.easy.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testBinaryTreePreorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lxc.easy.tree.testBinaryTreePreorderTraversal" />
       <module name="leetcode" />
@@ -94,34 +86,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testBitwiseAndOfNumbersRange.testRangeBitwiseAnd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testCombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testCombinationSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.medium.BitOperation.*" />
+          <option name="PATTERN" value="com.lxc.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.medium.BitOperation" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.BitOperation.testBitwiseAndOfNumbersRange" />
-      <option name="METHOD_NAME" value="testRangeBitwiseAnd" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testBitwiseAndOfNumbersRange.testRangeBitwiseAnd2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.medium.BitOperation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.medium.BitOperation" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.BitOperation.testBitwiseAndOfNumbersRange" />
-      <option name="METHOD_NAME" value="testRangeBitwiseAnd2" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -160,18 +144,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.testBinaryTreePreorderTraversal" />
-      <item itemvalue="JUnit.testBitwiseAndOfNumbersRange.testRangeBitwiseAnd" />
-      <item itemvalue="JUnit.testBitwiseAndOfNumbersRange.testRangeBitwiseAnd2" />
       <item itemvalue="JUnit.testPermutation.testPermutation" />
       <item itemvalue="JUnit.testNextPermutation.testNextPermutation" />
+      <item itemvalue="Application.testBinaryTreePostorderTraversal" />
+      <item itemvalue="Application.testCombinationSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testCombinationSum" />
+        <item itemvalue="Application.testBinaryTreePostorderTraversal" />
         <item itemvalue="Application.testBinaryTreePreorderTraversal" />
         <item itemvalue="JUnit.testNextPermutation.testNextPermutation" />
         <item itemvalue="JUnit.testPermutation.testPermutation" />
-        <item itemvalue="JUnit.testBitwiseAndOfNumbersRange.testRangeBitwiseAnd2" />
-        <item itemvalue="JUnit.testBitwiseAndOfNumbersRange.testRangeBitwiseAnd" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +178,7 @@
       <workItem from="1623855875569" duration="1821000" />
       <workItem from="1624271650650" duration="18965000" />
       <workItem from="1624521716002" duration="1520000" />
-      <workItem from="1624689507660" duration="471000" />
+      <workItem from="1624689507660" duration="4123000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -224,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623423744120</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add AddTwoNumbers PerfectSquares">
+      <created>1624691877526</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624691877526</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,6 +297,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/easy/tree/BinaryTreePreorderTraversal.java</url>
           <line>14</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/CombinationSum.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,4 +1,4 @@
-package com.lxc.medium;
+package com.lxc.medium.BacktrackingAlgorithm;
 
 import java.util.ArrayList;
 import java.util.HashSet;
