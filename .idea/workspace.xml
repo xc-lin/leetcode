@@ -5,8 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add AddTwoNumbers PerfectSquares">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/easy/binary/ArrangingCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/easy/tree/BinaryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/BitOperation/BitwiseAndOfNumbersRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/GreedyAlgorithm/MonotoneIncreasingDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/GreedyAlgorithm/QueueReconstructionByHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/MinimumPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/util/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/easy/binary/testArrangeCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/easy/tree/testBinaryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/BitOperation/testBitwiseAndOfNumbersRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/GreedyAlgorithm/testMonotoneIncreasingDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/GreedyAlgorithm/testQueueReconstructionByHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/testNextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/testPermutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +80,53 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testTwoSum.testTwoSumBest">
-    <configuration name="testAddTwoNumbers" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.testBinaryTreePreorderTraversal">
+    <configuration name="testBinaryTreePreorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.tree.testBinaryTreePreorderTraversal" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.easy.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testBitwiseAndOfNumbersRange.testRangeBitwiseAnd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.medium.BitOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.medium.BitOperation" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.BitOperation.testBitwiseAndOfNumbersRange" />
+      <option name="METHOD_NAME" value="testRangeBitwiseAnd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testBitwiseAndOfNumbersRange.testRangeBitwiseAnd2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.medium.BitOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.medium.BitOperation" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.BitOperation.testBitwiseAndOfNumbersRange" />
+      <option name="METHOD_NAME" value="testRangeBitwiseAnd2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testNextPermutation.testNextPermutation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -66,43 +135,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lxc.medium" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testAddTwoNumbers" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testAddTwoNumbers.testAddTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="PACKAGE_NAME" value="com.lxc.medium" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testAddTwoNumbers" />
-      <option name="METHOD_NAME" value="testAddTwoNumbers" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testNextPermutation" />
+      <option name="METHOD_NAME" value="testNextPermutation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testPerfectSquares.testNumSquares" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testPermutation.testPermutation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -111,59 +151,27 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lxc.medium" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testPerfectSquares" />
-      <option name="METHOD_NAME" value="testNumSquares" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testTwoSum.testTwoSumBest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testTwoSum" />
-      <option name="METHOD_NAME" value="testTwoSumBest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testTwoSum.testTwoSumForce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.testTwoSum" />
-      <option name="METHOD_NAME" value="testTwoSumForce" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testPermutation" />
+      <option name="METHOD_NAME" value="testPermutation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Android JUnit.testAddTwoNumbers" />
-      <item itemvalue="JUnit.testAddTwoNumbers.testAddTwoNumbers" />
-      <item itemvalue="JUnit.testPerfectSquares.testNumSquares" />
-      <item itemvalue="JUnit.testTwoSum.testTwoSumForce" />
-      <item itemvalue="JUnit.testTwoSum.testTwoSumBest" />
+      <item itemvalue="Application.testBinaryTreePreorderTraversal" />
+      <item itemvalue="JUnit.testBitwiseAndOfNumbersRange.testRangeBitwiseAnd" />
+      <item itemvalue="JUnit.testBitwiseAndOfNumbersRange.testRangeBitwiseAnd2" />
+      <item itemvalue="JUnit.testPermutation.testPermutation" />
+      <item itemvalue="JUnit.testNextPermutation.testNextPermutation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.testTwoSum.testTwoSumBest" />
-        <item itemvalue="JUnit.testTwoSum.testTwoSumForce" />
-        <item itemvalue="JUnit.testAddTwoNumbers.testAddTwoNumbers" />
-        <item itemvalue="Android JUnit.testAddTwoNumbers" />
-        <item itemvalue="JUnit.testPerfectSquares.testNumSquares" />
+        <item itemvalue="Application.testBinaryTreePreorderTraversal" />
+        <item itemvalue="JUnit.testNextPermutation.testNextPermutation" />
+        <item itemvalue="JUnit.testPermutation.testPermutation" />
+        <item itemvalue="JUnit.testBitwiseAndOfNumbersRange.testRangeBitwiseAnd2" />
+        <item itemvalue="JUnit.testBitwiseAndOfNumbersRange.testRangeBitwiseAnd" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +191,10 @@
       <workItem from="1623420442460" duration="3620000" />
       <workItem from="1623767466399" duration="1678000" />
       <workItem from="1623770800740" duration="60000" />
+      <workItem from="1623855875569" duration="1821000" />
+      <workItem from="1624271650650" duration="18965000" />
+      <workItem from="1624521716002" duration="1520000" />
+      <workItem from="1624689507660" duration="471000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -254,6 +266,46 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/AddTwoNumbers.java</url>
           <line>41</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/easy/binary/ArrangingCoins.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/GreedyAlgorithm/QueueReconstructionByHeight.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/GreedyAlgorithm/MonotoneIncreasingDigits.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/BitOperation/BitwiseAndOfNumbersRange.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/Permutation.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/Permutation.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/NextPermutation.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/easy/tree/BinaryTreePreorderTraversal.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
