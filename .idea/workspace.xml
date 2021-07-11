@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add AddTwoNumbers PerfectSquares">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/easy/tree/testBinaryTreePostorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/testCombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/RemoveNthNodeFromEndOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testLongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/testRemoveNthNodeFromEndOfList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/easy/tree/BinaryTreePostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/easy/tree/BinaryTreePostorderTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +58,15 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lxc.medium" />
+      <recent name="com.lxc.medium.BacktrackingAlgorithm" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lxc.medium.DynamicAlgorithm" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.testCombinationSum">
+  <component name="RunManager" selected="Application.testLongestIncreasingSubsequence">
     <configuration name="testBinaryTreePostorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lxc.easy.tree.testBinaryTreePostorderTraversal" />
       <module name="leetcode" />
@@ -87,11 +94,11 @@
       </method>
     </configuration>
     <configuration name="testCombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testCombinationSum" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.BacktrackingAlgorithm.testCombinationSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.medium.*" />
+          <option name="PATTERN" value="com.lxc.medium.BacktrackingAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,18 +106,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="testLongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.DynamicAlgorithm.testLongestIncreasingSubsequence" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.medium.DynamicAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testNextPermutation.testNextPermutation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testRemoveNthNodeFromEndOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testRemoveNthNodeFromEndOfList" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -118,44 +128,24 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.medium" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testNextPermutation" />
-      <option name="METHOD_NAME" value="testNextPermutation" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testPermutation.testPermutation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.medium" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testPermutation" />
-      <option name="METHOD_NAME" value="testPermutation" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.testBinaryTreePreorderTraversal" />
-      <item itemvalue="JUnit.testPermutation.testPermutation" />
-      <item itemvalue="JUnit.testNextPermutation.testNextPermutation" />
       <item itemvalue="Application.testBinaryTreePostorderTraversal" />
       <item itemvalue="Application.testCombinationSum" />
+      <item itemvalue="Application.testRemoveNthNodeFromEndOfList" />
+      <item itemvalue="Application.testLongestIncreasingSubsequence" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testLongestIncreasingSubsequence" />
+        <item itemvalue="Application.testRemoveNthNodeFromEndOfList" />
         <item itemvalue="Application.testCombinationSum" />
         <item itemvalue="Application.testBinaryTreePostorderTraversal" />
         <item itemvalue="Application.testBinaryTreePreorderTraversal" />
-        <item itemvalue="JUnit.testNextPermutation.testNextPermutation" />
-        <item itemvalue="JUnit.testPermutation.testPermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +168,8 @@
       <workItem from="1623855875569" duration="1821000" />
       <workItem from="1624271650650" duration="18965000" />
       <workItem from="1624521716002" duration="1520000" />
-      <workItem from="1624689507660" duration="4123000" />
+      <workItem from="1624689507660" duration="5522000" />
+      <workItem from="1625573880401" duration="1832000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -215,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624691877526</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add AddTwoNumbers PerfectSquares">
+      <created>1624696206396</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624696206396</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,12 +277,12 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/Permutation.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/BacktrackingAlgorithm/Permutation.java</url>
           <line>23</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/Permutation.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/BacktrackingAlgorithm/Permutation.java</url>
           <line>24</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
@@ -299,9 +297,14 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/CombinationSum.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/BacktrackingAlgorithm/CombinationSum.java</url>
           <line>15</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestIncreasingSubsequence.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
