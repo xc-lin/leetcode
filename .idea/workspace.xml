@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add AddTwoNumbers PerfectSquares">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/RemoveNthNodeFromEndOfList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testLongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/testRemoveNthNodeFromEndOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestPalindromicSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testLongestPalindromicSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testLongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testPalindromicSubstrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/PalindromicSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/PalindromicSubstrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +61,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lxc.medium.DynamicAlgorithm" />
       <recent name="com.lxc.medium" />
       <recent name="com.lxc.medium.BacktrackingAlgorithm" />
     </key>
@@ -66,46 +69,7 @@
       <recent name="com.lxc.medium.DynamicAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testLongestIncreasingSubsequence">
-    <configuration name="testBinaryTreePostorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.tree.testBinaryTreePostorderTraversal" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.easy.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testBinaryTreePreorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.easy.tree.testBinaryTreePreorderTraversal" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.easy.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testCombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.BacktrackingAlgorithm.testCombinationSum" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.medium.BacktrackingAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.testLongestPalindromicSubstring.testLongestPalindromeSubseq">
     <configuration name="testLongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lxc.medium.DynamicAlgorithm.testLongestIncreasingSubsequence" />
       <module name="leetcode" />
@@ -119,33 +83,95 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testRemoveNthNodeFromEndOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.testRemoveNthNodeFromEndOfList" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testLongestPalindromicSubsequence.testLongestPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.medium.*" />
+          <option name="PATTERN" value="com.lxc.medium.DynamicAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.medium.DynamicAlgorithm" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.DynamicAlgorithm.testLongestPalindromicSubsequence" />
+      <option name="METHOD_NAME" value="testLongestPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testLongestPalindromicSubsequence.testLongestPalindromeSubseq" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.medium.DynamicAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.medium.DynamicAlgorithm" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.DynamicAlgorithm.testLongestPalindromicSubsequence" />
+      <option name="METHOD_NAME" value="testLongestPalindromeSubseq" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testLongestPalindromicSubstring.testLongestPalindromeSubseq" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.medium.DynamicAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.medium.DynamicAlgorithm" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.DynamicAlgorithm.testLongestPalindromicSubstring" />
+      <option name="METHOD_NAME" value="testLongestPalindromeSubseq" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testPalindromicSubstrings.testCountSubstrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.medium.DynamicAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.medium.DynamicAlgorithm" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.DynamicAlgorithm.testPalindromicSubstrings" />
+      <option name="METHOD_NAME" value="testCountSubstrings" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.testBinaryTreePreorderTraversal" />
-      <item itemvalue="Application.testBinaryTreePostorderTraversal" />
-      <item itemvalue="Application.testCombinationSum" />
-      <item itemvalue="Application.testRemoveNthNodeFromEndOfList" />
       <item itemvalue="Application.testLongestIncreasingSubsequence" />
+      <item itemvalue="JUnit.testPalindromicSubstrings.testCountSubstrings" />
+      <item itemvalue="JUnit.testLongestPalindromicSubsequence.testLongestPalindrome" />
+      <item itemvalue="JUnit.testLongestPalindromicSubsequence.testLongestPalindromeSubseq" />
+      <item itemvalue="JUnit.testLongestPalindromicSubstring.testLongestPalindromeSubseq" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.testLongestPalindromicSubstring.testLongestPalindromeSubseq" />
+        <item itemvalue="JUnit.testLongestPalindromicSubsequence.testLongestPalindromeSubseq" />
+        <item itemvalue="JUnit.testLongestPalindromicSubsequence.testLongestPalindrome" />
+        <item itemvalue="JUnit.testPalindromicSubstrings.testCountSubstrings" />
         <item itemvalue="Application.testLongestIncreasingSubsequence" />
-        <item itemvalue="Application.testRemoveNthNodeFromEndOfList" />
-        <item itemvalue="Application.testCombinationSum" />
-        <item itemvalue="Application.testBinaryTreePostorderTraversal" />
-        <item itemvalue="Application.testBinaryTreePreorderTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +196,7 @@
       <workItem from="1624521716002" duration="1520000" />
       <workItem from="1624689507660" duration="5522000" />
       <workItem from="1625573880401" duration="1832000" />
+      <workItem from="1626005239352" duration="6077000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -213,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624696206396</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add AddTwoNumbers PerfectSquares">
+      <created>1626005314134</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626005314134</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,6 +339,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestIncreasingSubsequence.java</url>
           <line>30</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/PalindromicSubstrings.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestPalindromicSubsequence.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestPalindromicSubsequence.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestPalindromicSubstring.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
