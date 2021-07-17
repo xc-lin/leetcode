@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add AddTwoNumbers PerfectSquares">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestPalindromicSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testLongestPalindromicSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testLongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testPalindromicSubstrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/PalindromicSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/PalindromicSubstrings.java" afterDir="false" />
-    </list>
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add some dynamic code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +188,7 @@
       <workItem from="1624521716002" duration="1520000" />
       <workItem from="1624689507660" duration="5522000" />
       <workItem from="1625573880401" duration="1832000" />
-      <workItem from="1626005239352" duration="6077000" />
+      <workItem from="1626005239352" duration="6128000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -247,7 +239,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626005314134</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="111s">
+      <created>1626019143976</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626019143976</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add some dynamic code">
+      <created>1626019173582</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1626019173582</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +276,9 @@
     <MESSAGE value=" add remove LinkList element and ReverseLinkedList" />
     <MESSAGE value="add summeryRanges" />
     <MESSAGE value="add AddTwoNumbers PerfectSquares" />
-    <option name="LAST_COMMIT_MESSAGE" value="add AddTwoNumbers PerfectSquares" />
+    <MESSAGE value="111s" />
+    <MESSAGE value="add some dynamic code" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some dynamic code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
