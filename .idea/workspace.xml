@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add some dynamic code" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add some dynamic code">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J03_FindRepeatNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J04_FindNumberIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J05_ReplaceSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J06_ReversePrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J12_Exist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J13_MovingCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LCOF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ03_FindRepeatNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ04_FindNumberIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ05_ReplaceSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ06_ReversePrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ12_Exist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ13_MovingCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testLCOF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +43,10 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestPalindromicSubstring.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testLongestPalindromicSubstring.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1tf3OXg79iDA3tfcRlrhiIKWlc3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,16 +78,17 @@
       <recent name="com.lxc.medium.BacktrackingAlgorithm" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lxc.JZOffer" />
       <recent name="com.lxc.medium.DynamicAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testLongestPalindromicSubstring.testLongestPalindromeSubseq">
-    <configuration name="testLongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.DynamicAlgorithm.testLongestIncreasingSubsequence" />
+  <component name="RunManager" selected="Application.testJ06_ReversePrint">
+    <configuration name="testJ06_ReversePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ06_ReversePrint" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.medium.DynamicAlgorithm.*" />
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,95 +96,96 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testJ03_FindRepeatNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ03_FindRepeatNumber" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testLongestPalindromicSubsequence.testLongestPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testJ03_FindRepeatNumber.testFindRepeatNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.medium.DynamicAlgorithm.*" />
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.medium.DynamicAlgorithm" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.DynamicAlgorithm.testLongestPalindromicSubsequence" />
-      <option name="METHOD_NAME" value="testLongestPalindrome" />
+      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ03_FindRepeatNumber" />
+      <option name="METHOD_NAME" value="testFindRepeatNumber" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testLongestPalindromicSubsequence.testLongestPalindromeSubseq" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testJ04_FindNumberIn2DArray.testFindNumberIn2DArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.medium.DynamicAlgorithm.*" />
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.medium.DynamicAlgorithm" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.DynamicAlgorithm.testLongestPalindromicSubsequence" />
-      <option name="METHOD_NAME" value="testLongestPalindromeSubseq" />
+      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ04_FindNumberIn2DArray" />
+      <option name="METHOD_NAME" value="testFindNumberIn2DArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testLongestPalindromicSubstring.testLongestPalindromeSubseq" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testJ05_ReplaceSpace.testReplaceSpace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.medium.DynamicAlgorithm.*" />
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.medium.DynamicAlgorithm" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.DynamicAlgorithm.testLongestPalindromicSubstring" />
-      <option name="METHOD_NAME" value="testLongestPalindromeSubseq" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testPalindromicSubstrings.testCountSubstrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.medium.DynamicAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.medium.DynamicAlgorithm" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.DynamicAlgorithm.testPalindromicSubstrings" />
-      <option name="METHOD_NAME" value="testCountSubstrings" />
+      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ05_ReplaceSpace" />
+      <option name="METHOD_NAME" value="testReplaceSpace" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.testLongestIncreasingSubsequence" />
-      <item itemvalue="JUnit.testPalindromicSubstrings.testCountSubstrings" />
-      <item itemvalue="JUnit.testLongestPalindromicSubsequence.testLongestPalindrome" />
-      <item itemvalue="JUnit.testLongestPalindromicSubsequence.testLongestPalindromeSubseq" />
-      <item itemvalue="JUnit.testLongestPalindromicSubstring.testLongestPalindromeSubseq" />
+      <item itemvalue="JUnit.testJ03_FindRepeatNumber" />
+      <item itemvalue="JUnit.testJ03_FindRepeatNumber.testFindRepeatNumber" />
+      <item itemvalue="JUnit.testJ04_FindNumberIn2DArray.testFindNumberIn2DArray" />
+      <item itemvalue="JUnit.testJ05_ReplaceSpace.testReplaceSpace" />
+      <item itemvalue="Application.testJ06_ReversePrint" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.testLongestPalindromicSubstring.testLongestPalindromeSubseq" />
-        <item itemvalue="JUnit.testLongestPalindromicSubsequence.testLongestPalindromeSubseq" />
-        <item itemvalue="JUnit.testLongestPalindromicSubsequence.testLongestPalindrome" />
-        <item itemvalue="JUnit.testPalindromicSubstrings.testCountSubstrings" />
-        <item itemvalue="Application.testLongestIncreasingSubsequence" />
+        <item itemvalue="Application.testJ06_ReversePrint" />
+        <item itemvalue="JUnit.testJ05_ReplaceSpace.testReplaceSpace" />
+        <item itemvalue="JUnit.testJ04_FindNumberIn2DArray.testFindNumberIn2DArray" />
+        <item itemvalue="JUnit.testJ03_FindRepeatNumber.testFindRepeatNumber" />
+        <item itemvalue="JUnit.testJ03_FindRepeatNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +211,9 @@
       <workItem from="1624689507660" duration="5522000" />
       <workItem from="1625573880401" duration="1832000" />
       <workItem from="1626005239352" duration="6128000" />
+      <workItem from="1626508407960" duration="350000" />
+      <workItem from="1626508805888" duration="5978000" />
+      <workItem from="1626600444715" duration="2387000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -253,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626019173582</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add some dynamic code">
+      <created>1626508455860</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1626508455860</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,8 +397,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestPalindromicSubstring.java</url>
-          <line>7</line>
+          <line>32</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J13_MovingCount.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J04_FindNumberIn2DArray.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J06_ReversePrint.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
