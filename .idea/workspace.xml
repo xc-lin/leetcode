@@ -4,21 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add some dynamic code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J03_FindRepeatNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J04_FindNumberIn2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J05_ReplaceSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J06_ReversePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J12_Exist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J13_MovingCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LCOF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ03_FindRepeatNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ04_FindNumberIn2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ05_ReplaceSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ06_ReversePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ12_Exist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ13_MovingCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testLCOF.java" afterDir="false" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add 2stack -&gt; queue">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J07_BuildTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J11_MinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J15_HammingWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J17_PrintNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J17_PrintNumbers_big_num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ07_BuildTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ11_MinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ15_HammingWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ17_PrintNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ17_PrintNumbers_big_num.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,9 +78,9 @@
       <recent name="com.lxc.medium.DynamicAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testJ06_ReversePrint">
-    <configuration name="testJ06_ReversePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ06_ReversePrint" />
+  <component name="RunManager" selected="JUnit.testJ17_PrintNumbers_big_num.testPrintNumbers_big_num">
+    <configuration name="testJ07_BuildTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ07_BuildTree" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -109,7 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testJ03_FindRepeatNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testJ11_MinArray.testMinArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -118,29 +114,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ03_FindRepeatNumber" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testJ03_FindRepeatNumber.testFindRepeatNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.JZOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ03_FindRepeatNumber" />
-      <option name="METHOD_NAME" value="testFindRepeatNumber" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ11_MinArray" />
+      <option name="METHOD_NAME" value="testMinArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testJ04_FindNumberIn2DArray.testFindNumberIn2DArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testJ15_HammingWeight.testHammingWeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -149,14 +130,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ04_FindNumberIn2DArray" />
-      <option name="METHOD_NAME" value="testFindNumberIn2DArray" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ15_HammingWeight" />
+      <option name="METHOD_NAME" value="testHammingWeight" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testJ05_ReplaceSpace.testReplaceSpace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testJ17_PrintNumbers_big_num.testPrintNumbers_big_num" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -165,27 +146,43 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ05_ReplaceSpace" />
-      <option name="METHOD_NAME" value="testReplaceSpace" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ17_PrintNumbers_big_num" />
+      <option name="METHOD_NAME" value="testPrintNumbers_big_num" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testJ17_PrintNumbers.testPrintNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ17_PrintNumbers" />
+      <option name="METHOD_NAME" value="testPrintNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.testJ03_FindRepeatNumber" />
-      <item itemvalue="JUnit.testJ03_FindRepeatNumber.testFindRepeatNumber" />
-      <item itemvalue="JUnit.testJ04_FindNumberIn2DArray.testFindNumberIn2DArray" />
-      <item itemvalue="JUnit.testJ05_ReplaceSpace.testReplaceSpace" />
-      <item itemvalue="Application.testJ06_ReversePrint" />
+      <item itemvalue="Application.testJ07_BuildTree" />
+      <item itemvalue="JUnit.testJ11_MinArray.testMinArray" />
+      <item itemvalue="JUnit.testJ15_HammingWeight.testHammingWeight" />
+      <item itemvalue="JUnit.testJ17_PrintNumbers.testPrintNumbers" />
+      <item itemvalue="JUnit.testJ17_PrintNumbers_big_num.testPrintNumbers_big_num" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.testJ06_ReversePrint" />
-        <item itemvalue="JUnit.testJ05_ReplaceSpace.testReplaceSpace" />
-        <item itemvalue="JUnit.testJ04_FindNumberIn2DArray.testFindNumberIn2DArray" />
-        <item itemvalue="JUnit.testJ03_FindRepeatNumber.testFindRepeatNumber" />
-        <item itemvalue="JUnit.testJ03_FindRepeatNumber" />
+        <item itemvalue="JUnit.testJ17_PrintNumbers_big_num.testPrintNumbers_big_num" />
+        <item itemvalue="JUnit.testJ17_PrintNumbers.testPrintNumbers" />
+        <item itemvalue="JUnit.testJ15_HammingWeight.testHammingWeight" />
+        <item itemvalue="JUnit.testJ11_MinArray.testMinArray" />
+        <item itemvalue="Application.testJ07_BuildTree" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +210,9 @@
       <workItem from="1626005239352" duration="6128000" />
       <workItem from="1626508407960" duration="350000" />
       <workItem from="1626508805888" duration="5978000" />
-      <workItem from="1626600444715" duration="2387000" />
+      <workItem from="1626600444715" duration="2572000" />
+      <workItem from="1626608665837" duration="1005000" />
+      <workItem from="1626663848791" duration="9373000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -285,7 +284,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626508455860</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add j3 4 5 6 12 13 Lcof">
+      <created>1626602898690</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1626602898690</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add 2stack -&gt; queue">
+      <created>1626609471203</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1626609471203</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +323,9 @@
     <MESSAGE value="add AddTwoNumbers PerfectSquares" />
     <MESSAGE value="111s" />
     <MESSAGE value="add some dynamic code" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some dynamic code" />
+    <MESSAGE value="add j3 4 5 6 12 13 Lcof" />
+    <MESSAGE value="add 2stack -&gt; queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 2stack -&gt; queue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -414,6 +429,51 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J06_ReversePrint.java</url>
           <line>28</line>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J07_BuildTree.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J07_BuildTree.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J07_BuildTree.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J07_BuildTree.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J11_MinArray.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J15_HammingWeight.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J17_PrintNumbers.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J17_PrintNumbers_big_num.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J17_PrintNumbers_big_num.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
