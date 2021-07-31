@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add 2stack -&gt; queue">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J14_CuttingRope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J16_MyPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J18_DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J25_MergeTwoLinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/PartitionEqualSubsetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ14_CuttingRope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ16_MyPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ18_DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testPartitionEqualSubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J21_Exchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J22_GetKthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J24_reverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J26_IsSubStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J27_MirrorTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J28_IsSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J29_SpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J35_CopyRandomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J40_GetLeastNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J52_GetIntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/util/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ21_Exchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ24_reverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ26_IsSubStructure.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +73,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lxc.JZOffer" />
       <recent name="com.lxc.medium.DynamicAlgorithm" />
       <recent name="com.lxc.medium" />
       <recent name="com.lxc.medium.BacktrackingAlgorithm" />
@@ -77,9 +83,9 @@
       <recent name="com.lxc.medium.DynamicAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testPartitionEqualSubsetSum">
-    <configuration name="testJ18_DeleteNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ18_DeleteNode" />
+  <component name="RunManager" selected="Application.testJ24_reverseLinkedList">
+    <configuration name="testJ24_reverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ24_reverseLinkedList" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -102,22 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testJ14_CuttingRope.testCuttingRope" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.JZOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ14_CuttingRope" />
-      <option name="METHOD_NAME" value="testCuttingRope" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="testJ16_MyPow.testMyPow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -129,6 +119,22 @@
       <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
       <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ16_MyPow" />
       <option name="METHOD_NAME" value="testMyPow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testJ21_Exchange.testExchange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ21_Exchange" />
+      <option name="METHOD_NAME" value="testExchange" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -166,19 +172,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.testJ14_CuttingRope.testCuttingRope" />
-      <item itemvalue="Application.testJ18_DeleteNode" />
+      <item itemvalue="Application.testJ24_reverseLinkedList" />
       <item itemvalue="JUnit.testJ16_MyPow.testMyPow" />
       <item itemvalue="JUnit.testPartitionEqualSubsetSum.testCanPartition" />
       <item itemvalue="JUnit.testPartitionEqualSubsetSum" />
+      <item itemvalue="JUnit.testJ21_Exchange.testExchange" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testJ24_reverseLinkedList" />
+        <item itemvalue="JUnit.testJ21_Exchange.testExchange" />
         <item itemvalue="JUnit.testPartitionEqualSubsetSum" />
         <item itemvalue="JUnit.testPartitionEqualSubsetSum.testCanPartition" />
         <item itemvalue="JUnit.testJ16_MyPow.testMyPow" />
-        <item itemvalue="Application.testJ18_DeleteNode" />
-        <item itemvalue="JUnit.testJ14_CuttingRope.testCuttingRope" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +215,9 @@
       <workItem from="1626600444715" duration="2572000" />
       <workItem from="1626608665837" duration="1005000" />
       <workItem from="1626663848791" duration="9779000" />
-      <workItem from="1626688672583" duration="6997000" />
+      <workItem from="1626688672583" duration="40507000" />
+      <workItem from="1627031483066" duration="5568000" />
+      <workItem from="1627736542694" duration="3803000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -302,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626681491640</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add 2stack -&gt; queue">
+      <created>1626793347835</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1626793347835</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,13 +506,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/PartitionEqualSubsetSum.java</url>
-          <line>20</line>
+          <line>28</line>
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/PartitionEqualSubsetSum.java</url>
-          <line>21</line>
+          <line>29</line>
           <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J21_Exchange.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J26_IsSubStructure.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="70" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
