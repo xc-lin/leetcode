@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add 2stack -&gt; queue">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J21_Exchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J22_GetKthFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J24_reverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J26_IsSubStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J27_MirrorTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J28_IsSymmetric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J29_SpiralOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J35_CopyRandomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J40_GetLeastNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J52_GetIntersectionNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/util/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ21_Exchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ24_reverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ26_IsSubStructure.java" afterDir="false" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add questions and answer">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J30_MinStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J40_GetLeastNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J40_GetLeastNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/util/MinStack.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +206,7 @@
       <workItem from="1626663848791" duration="9779000" />
       <workItem from="1626688672583" duration="40507000" />
       <workItem from="1627031483066" duration="5568000" />
-      <workItem from="1627736542694" duration="3803000" />
+      <workItem from="1627736542694" duration="6567000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -317,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626793347835</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add questions and answer">
+      <created>1627741092969</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1627741092969</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +340,8 @@
     <MESSAGE value="add some dynamic code" />
     <MESSAGE value="add j3 4 5 6 12 13 Lcof" />
     <MESSAGE value="add 2stack -&gt; queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 2stack -&gt; queue" />
+    <MESSAGE value="add questions and answer" />
+    <option name="LAST_COMMIT_MESSAGE" value="add questions and answer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
