@@ -5,11 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add questions and answer">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J31_ValidateStackSequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J33_VerifyPostorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J34_PathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J36_TreeToDoublyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J42_MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J44_FindNthDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J45_MinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J46_TranslateNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J47_MaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J48_LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J58_ReverseLeftWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ42_MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ44_FindNthDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ46_TranslateNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ47_MaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ48_LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ58_ReverseLeftWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +48,10 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ47_MaxValue.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/com/lxc/medium/DynamicAlgorithm/LongestPalindromicSubstring.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testLongestPalindromicSubstring.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J47_MaxValue.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1tf3OXg79iDA3tfcRlrhiIKWlc3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,9 +88,9 @@
       <recent name="com.lxc.medium.DynamicAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testJ24_reverseLinkedList">
-    <configuration name="testJ24_reverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ24_reverseLinkedList" />
+  <component name="RunManager" selected="JUnit.testJ48_LengthOfLongestSubstring.testLengthOfLongestSubstring">
+    <configuration name="J45_MinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.J45_MinNumber" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -87,96 +102,95 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testJ16_MyPow.testMyPow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.JZOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ16_MyPow" />
-      <option name="METHOD_NAME" value="testMyPow" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testJ21_Exchange.testExchange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.JZOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ21_Exchange" />
-      <option name="METHOD_NAME" value="testExchange" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testPartitionEqualSubsetSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.medium.DynamicAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.medium.DynamicAlgorithm" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.DynamicAlgorithm.testPartitionEqualSubsetSum" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testPartitionEqualSubsetSum.testCanPartition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testJ44_FindNthDigit.testFindNthDigit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.medium.DynamicAlgorithm.*" />
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.medium.DynamicAlgorithm" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.medium.DynamicAlgorithm.testPartitionEqualSubsetSum" />
-      <option name="METHOD_NAME" value="testCanPartition" />
+      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ44_FindNthDigit" />
+      <option name="METHOD_NAME" value="testFindNthDigit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testJ46_TranslateNum.testTranslateNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ46_TranslateNum" />
+      <option name="METHOD_NAME" value="testTranslateNum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testJ47_MaxValue.testMaxValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ47_MaxValue" />
+      <option name="METHOD_NAME" value="testMaxValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testJ48_LengthOfLongestSubstring.testLengthOfLongestSubstring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ48_LengthOfLongestSubstring" />
+      <option name="METHOD_NAME" value="testLengthOfLongestSubstring" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.testJ24_reverseLinkedList" />
-      <item itemvalue="JUnit.testJ16_MyPow.testMyPow" />
-      <item itemvalue="JUnit.testPartitionEqualSubsetSum.testCanPartition" />
-      <item itemvalue="JUnit.testPartitionEqualSubsetSum" />
-      <item itemvalue="JUnit.testJ21_Exchange.testExchange" />
+      <item itemvalue="Application.J45_MinNumber" />
+      <item itemvalue="JUnit.testJ44_FindNthDigit.testFindNthDigit" />
+      <item itemvalue="JUnit.testJ46_TranslateNum.testTranslateNum" />
+      <item itemvalue="JUnit.testJ47_MaxValue.testMaxValue" />
+      <item itemvalue="JUnit.testJ48_LengthOfLongestSubstring.testLengthOfLongestSubstring" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.testJ24_reverseLinkedList" />
-        <item itemvalue="JUnit.testJ21_Exchange.testExchange" />
-        <item itemvalue="JUnit.testPartitionEqualSubsetSum" />
-        <item itemvalue="JUnit.testPartitionEqualSubsetSum.testCanPartition" />
-        <item itemvalue="JUnit.testJ16_MyPow.testMyPow" />
+        <item itemvalue="JUnit.testJ48_LengthOfLongestSubstring.testLengthOfLongestSubstring" />
+        <item itemvalue="JUnit.testJ47_MaxValue.testMaxValue" />
+        <item itemvalue="JUnit.testJ46_TranslateNum.testTranslateNum" />
+        <item itemvalue="Application.J45_MinNumber" />
+        <item itemvalue="JUnit.testJ44_FindNthDigit.testFindNthDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +224,10 @@
       <workItem from="1626688672583" duration="40507000" />
       <workItem from="1627031483066" duration="5568000" />
       <workItem from="1627736542694" duration="9388000" />
-      <workItem from="1627803442810" duration="8359000" />
+      <workItem from="1627803442810" duration="9450000" />
+      <workItem from="1627832170120" duration="1535000" />
+      <workItem from="1627873195180" duration="6000000" />
+      <workItem from="1627969446733" duration="8270000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -331,7 +348,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627746837656</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add questions and answer">
+      <created>1627819267561</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1627819267561</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add questions and answer">
+      <created>1627832187880</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1627832187880</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,6 +569,51 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J26_IsSubStructure.java</url>
           <line>8</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J42_MaxSubArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J44_FindNthDigit.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J45_MinNumber.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J46_TranslateNum.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J47_MaxValue.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J47_MaxValue.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J47_MaxValue.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J48_LengthOfLongestSubstring.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J48_LengthOfLongestSubstring.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
