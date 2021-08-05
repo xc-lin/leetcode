@@ -4,23 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="add questions and answer">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J42_MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J44_FindNthDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J45_MinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J46_TranslateNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J47_MaxValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J48_LengthOfLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J58_ReverseLeftWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ42_MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ44_FindNthDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ46_TranslateNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ47_MaxValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ48_LengthOfLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ58_ReverseLeftWords.java" afterDir="false" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J49_NthUglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J50_FirstUniqChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J53_MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J53_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J54_KthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J55_MaxDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
     </list>
@@ -227,7 +220,11 @@
       <workItem from="1627803442810" duration="9450000" />
       <workItem from="1627832170120" duration="1535000" />
       <workItem from="1627873195180" duration="6000000" />
-      <workItem from="1627969446733" duration="8270000" />
+      <workItem from="1627969446733" duration="9062000" />
+      <workItem from="1628046232716" duration="3603000" />
+      <workItem from="1628067658622" duration="1922000" />
+      <workItem from="1628069677580" duration="166000" />
+      <workItem from="1628134202975" duration="3773000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -362,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627832187880</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="8.3">
+      <created>1627978393865</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1627978393865</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,7 +394,8 @@
     <MESSAGE value="add j3 4 5 6 12 13 Lcof" />
     <MESSAGE value="add 2stack -&gt; queue" />
     <MESSAGE value="add questions and answer" />
-    <option name="LAST_COMMIT_MESSAGE" value="add questions and answer" />
+    <MESSAGE value="8.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
