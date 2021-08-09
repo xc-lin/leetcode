@@ -4,18 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J49_NthUglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J50_FirstUniqChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J53_MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J53_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J54_KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J55_MaxDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" beforeDir="false" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J55_IsBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J56_SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J56_SingleNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J57_FindContinuousSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J57_TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J58_ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J59_MaxQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J59_MaxSlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J60_DicesProbability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J61_IsStraight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J62_LastRemaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J63_MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J64_SumNums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J55_MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J55_MaxDepth.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,9 +85,9 @@
       <recent name="com.lxc.medium.DynamicAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testJ48_LengthOfLongestSubstring.testLengthOfLongestSubstring">
-    <configuration name="J45_MinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.J45_MinNumber" />
+  <component name="RunManager" selected="Application.J63_MaxProfit">
+    <configuration name="J59_MaxSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.J59_MaxSlidingWindow" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -95,95 +99,85 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="J60_DicesProbability" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.J60_DicesProbability" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="J61_IsStraight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.J61_IsStraight" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="J62_LastRemaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.J62_LastRemaining" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="J63_MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.J63_MaxProfit" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testJ44_FindNthDigit.testFindNthDigit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.JZOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ44_FindNthDigit" />
-      <option name="METHOD_NAME" value="testFindNthDigit" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testJ46_TranslateNum.testTranslateNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.JZOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ46_TranslateNum" />
-      <option name="METHOD_NAME" value="testTranslateNum" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testJ47_MaxValue.testMaxValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.JZOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ47_MaxValue" />
-      <option name="METHOD_NAME" value="testMaxValue" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testJ48_LengthOfLongestSubstring.testLengthOfLongestSubstring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.JZOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lxc.JZOffer" />
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.testJ48_LengthOfLongestSubstring" />
-      <option name="METHOD_NAME" value="testLengthOfLongestSubstring" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.J45_MinNumber" />
-      <item itemvalue="JUnit.testJ44_FindNthDigit.testFindNthDigit" />
-      <item itemvalue="JUnit.testJ46_TranslateNum.testTranslateNum" />
-      <item itemvalue="JUnit.testJ47_MaxValue.testMaxValue" />
-      <item itemvalue="JUnit.testJ48_LengthOfLongestSubstring.testLengthOfLongestSubstring" />
+      <item itemvalue="Application.J59_MaxSlidingWindow" />
+      <item itemvalue="Application.J60_DicesProbability" />
+      <item itemvalue="Application.J61_IsStraight" />
+      <item itemvalue="Application.J62_LastRemaining" />
+      <item itemvalue="Application.J63_MaxProfit" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.testJ48_LengthOfLongestSubstring.testLengthOfLongestSubstring" />
-        <item itemvalue="JUnit.testJ47_MaxValue.testMaxValue" />
-        <item itemvalue="JUnit.testJ46_TranslateNum.testTranslateNum" />
-        <item itemvalue="Application.J45_MinNumber" />
-        <item itemvalue="JUnit.testJ44_FindNthDigit.testFindNthDigit" />
+        <item itemvalue="Application.J63_MaxProfit" />
+        <item itemvalue="Application.J62_LastRemaining" />
+        <item itemvalue="Application.J61_IsStraight" />
+        <item itemvalue="Application.J60_DicesProbability" />
+        <item itemvalue="Application.J59_MaxSlidingWindow" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +218,13 @@
       <workItem from="1628046232716" duration="3603000" />
       <workItem from="1628067658622" duration="1922000" />
       <workItem from="1628069677580" duration="166000" />
-      <workItem from="1628134202975" duration="3773000" />
+      <workItem from="1628134202975" duration="4710000" />
+      <workItem from="1628218520521" duration="6978000" />
+      <workItem from="1628264238959" duration="1509000" />
+      <workItem from="1628309187877" duration="4683000" />
+      <workItem from="1628331123945" duration="3737000" />
+      <workItem from="1628410570688" duration="7327000" />
+      <workItem from="1628478521502" duration="4999000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -366,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627978393865</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="8.5">
+      <created>1628138883796</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1628138883796</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,7 +402,8 @@
     <MESSAGE value="add 2stack -&gt; queue" />
     <MESSAGE value="add questions and answer" />
     <MESSAGE value="8.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.3" />
+    <MESSAGE value="8.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -619,6 +627,56 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J48_LengthOfLongestSubstring.java</url>
           <line>18</line>
           <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J56_SingleNumber.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J57_FindContinuousSequence.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J59_MaxSlidingWindow.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J59_MaxSlidingWindow.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J60_DicesProbability.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J61_IsStraight.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J61_IsStraight.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J62_LastRemaining.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J63_MaxProfit.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J64_SumNums.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="110" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
