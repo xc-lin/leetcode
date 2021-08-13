@@ -4,12 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.9">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J65_Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J66_ConstructArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J67_StrToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J68_1LowestCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J68_2LowestCommonAncestor.java" afterDir="false" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.11">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J10_Fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J10_NumWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J11_MinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J12_Exist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J13_MovingCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J15_HammingWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J16_MyPow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J17_PrintNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J18_DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J20_IsNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J21_Exchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J24_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J25_MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J4_CuttingRope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/数位之和.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,13 +86,13 @@
       <recent name="com.lxc.medium.DynamicAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.J67_StrToInt">
-    <configuration name="J62_LastRemaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.J62_LastRemaining" />
+  <component name="RunManager" selected="Application.J21_Exchange">
+    <configuration name="数位之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.数位之和" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="PATTERN" value="com.lxc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J63_MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.J63_MaxProfit" />
+    <configuration name="J16_MyPow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer2.J16_MyPow" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="PATTERN" value="com.lxc.JZOffer2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J65_Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.J65_Add" />
+    <configuration name="J17_PrintNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer2.J17_PrintNumbers" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="PATTERN" value="com.lxc.JZOffer2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J66_ConstructArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.J66_ConstructArr" />
+    <configuration name="J21_Exchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer2.J21_Exchange" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="PATTERN" value="com.lxc.JZOffer2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,46 +139,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J67_StrToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer.J67_StrToInt" />
+    <configuration name="J4_CuttingRope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.JZOffer2.J4_CuttingRope" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.JZOffer.*" />
+          <option name="PATTERN" value="com.lxc.JZOffer2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.J62_LastRemaining" />
-      <item itemvalue="Application.J63_MaxProfit" />
-      <item itemvalue="Application.J65_Add" />
-      <item itemvalue="Application.J66_ConstructArr" />
-      <item itemvalue="Application.J67_StrToInt" />
+      <item itemvalue="Application.数位之和" />
+      <item itemvalue="Application.J4_CuttingRope" />
+      <item itemvalue="Application.J16_MyPow" />
+      <item itemvalue="Application.J17_PrintNumbers" />
+      <item itemvalue="Application.J21_Exchange" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.J67_StrToInt" />
-        <item itemvalue="Application.J66_ConstructArr" />
-        <item itemvalue="Application.J65_Add" />
-        <item itemvalue="Application.J63_MaxProfit" />
-        <item itemvalue="Application.J62_LastRemaining" />
+        <item itemvalue="Application.J21_Exchange" />
+        <item itemvalue="Application.J17_PrintNumbers" />
+        <item itemvalue="Application.J16_MyPow" />
+        <item itemvalue="Application.J4_CuttingRope" />
+        <item itemvalue="Application.数位之和" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +212,12 @@
       <workItem from="1628309187877" duration="4683000" />
       <workItem from="1628331123945" duration="3737000" />
       <workItem from="1628410570688" duration="7327000" />
-      <workItem from="1628478521502" duration="20043000" />
+      <workItem from="1628478521502" duration="20077000" />
+      <workItem from="1628654175136" duration="5855000" />
+      <workItem from="1628670767205" duration="5772000" />
+      <workItem from="1628736369420" duration="10350000" />
+      <workItem from="1628759793614" duration="5884000" />
+      <workItem from="1628771756578" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -378,7 +380,28 @@
       <option name="project" value="LOCAL" />
       <updated>1628567825012</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="8.10">
+      <created>1628593477039</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1628593477039</updated>
+    </task>
+    <task id="LOCAL-00025" summary="8.10">
+      <created>1628593495232</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1628593495232</updated>
+    </task>
+    <task id="LOCAL-00026" summary="8.11">
+      <created>1628660274800</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1628660274800</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,7 +432,9 @@
     <MESSAGE value="8.3" />
     <MESSAGE value="8.5" />
     <MESSAGE value="8.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.9" />
+    <MESSAGE value="8.10" />
+    <MESSAGE value="8.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -713,6 +738,49 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer/J67_StrToInt.java</url>
           <line>92</line>
           <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J03_FindRepeatNumber.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J12_Exist.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J13_MovingCount.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J4_CuttingRope.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J15_HammingWeight.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J17_PrintNumbers.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J21_Exchange.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J18_DeleteNode.java</url>
+          <line>5</line>
+          <properties class="com.lxc.JZOffer2.J18_DeleteNode" method="deleteNode">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="137" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
