@@ -4,22 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.11">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J10_Fib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J10_NumWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J11_MinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J12_Exist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J13_MovingCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J15_HammingWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J16_MyPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J17_PrintNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J18_DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J20_IsNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J21_Exchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J24_ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J25_MergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J4_CuttingRope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/数位之和.java" afterDir="false" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.12">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J26_IsSubStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J27_MirrorTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J28_IsSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J29_SpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J30_MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J31_ValidateStackSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J32_1LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J32_2LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J32_3levelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J33_VerifyPostorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J33_VerifyPostorder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J34_PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J35_CopyRandomList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +80,7 @@
       <recent name="com.lxc.medium.BacktrackingAlgorithm" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lxc.JZOffer2" />
       <recent name="com.lxc.JZOffer" />
       <recent name="com.lxc.medium.DynamicAlgorithm" />
     </key>
@@ -152,6 +151,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.数位之和" />
       <item itemvalue="Application.J4_CuttingRope" />
@@ -218,6 +228,9 @@
       <workItem from="1628736369420" duration="10350000" />
       <workItem from="1628759793614" duration="5884000" />
       <workItem from="1628771756578" duration="6000" />
+      <workItem from="1628823921995" duration="9527000" />
+      <workItem from="1628843964344" duration="92000" />
+      <workItem from="1628850025318" duration="7707000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -401,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628660274800</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="8.12">
+      <created>1628824170814</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1628824170814</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,7 +454,8 @@
     <MESSAGE value="8.9" />
     <MESSAGE value="8.10" />
     <MESSAGE value="8.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.11" />
+    <MESSAGE value="8.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
