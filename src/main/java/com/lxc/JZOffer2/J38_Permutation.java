@@ -36,7 +36,7 @@ public class J38_Permutation {
             // 如果这个字符在前一次递归中已经使用 那么跳过
             // 如果这个这个字符和前一个字符相同说明在for循环的上一次已经有了这个排列比如aab
             // 但是需要拍出一种情况 就是前一个a是在上一层通道的而不是这一层用到的 因此如果是上一层用到的那么visit一定是true
-            // 如果visit 为false 且 这个字符和上一个字符相同那么 说明上一层for循环已经使用过这个字符
+            // 如果visit 为false 且 这个字符和上一个字符相同那么 说明这一层for循环已经使用过这个字符
             if (visit[i]||(i>0&&!visit[i-1]&&chars[i]==chars[i-1])) {
                 continue;
             }

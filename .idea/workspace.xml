@@ -4,70 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.13">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J38_Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J39_MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J40_GetLeastNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J42_MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J44_FindNthDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J45_MinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J46_TranslateNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J47_MaxValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J48_LengthOfLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J49_NthUglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J50_FirstUniqChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J52_GetIntersectionNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J53_2missingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J53_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J54_KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J55_2IsBalanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J55_MaxDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J56_SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J56_SingleNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J57_2FindContinuousSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J57_TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J58_ReverseLeftWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J58_ReverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J59_2MaxQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J59_MaxSlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J61_IsStraight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J62_LastRemaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J63_MaxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J64_NumNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J65_Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J66_ConstructArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J67_StrToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J68_1LowestCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J68_2LowestCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L11_MaxArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L15_ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L17_LetterCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L20_IsValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L21_MergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L22_GenerateParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L23_MergeKLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L31_NextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L32_LongestValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L33_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L34_searchRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L3_lengthOfLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L4_findMedianSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/redBook/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/redBook/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/redBook/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" afterDir="false" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.23">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L39_CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L42_Trap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L46_Permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L48_Rotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L49_GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L53_MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L55_CanJump.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J38_Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J38_Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,33 +85,7 @@
       <recent name="com.lxc.medium.DynamicAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L34_searchRange">
-    <configuration name="L31_NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L31_NextPermutation" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.hostest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L32_LongestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L32_LongestValidParentheses" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.hostest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.L49_GroupAnagrams">
     <configuration name="L34_searchRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L34_searchRange" />
       <module name="leetcode" />
@@ -178,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.Tencent.test2" />
+    <configuration name="L39_CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L39_CombinationSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.Tencent.*" />
+          <option name="PATTERN" value="com.lxc.hostest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.Tencent.test4" />
+    <configuration name="L42_Trap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L42_Trap" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.Tencent.*" />
+          <option name="PATTERN" value="com.lxc.hostest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,33 +125,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="L48_Rotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L48_Rotate" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.hostest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L49_GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L49_GroupAnagrams" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.hostest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test2 (1)" />
-      <item itemvalue="Application.test4 (1)" />
-      <item itemvalue="Application.L31_NextPermutation" />
-      <item itemvalue="Application.L32_LongestValidParentheses" />
       <item itemvalue="Application.L34_searchRange" />
+      <item itemvalue="Application.L39_CombinationSum" />
+      <item itemvalue="Application.L42_Trap" />
+      <item itemvalue="Application.L48_Rotate" />
+      <item itemvalue="Application.L49_GroupAnagrams" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L49_GroupAnagrams" />
+        <item itemvalue="Application.L48_Rotate" />
+        <item itemvalue="Application.L42_Trap" />
+        <item itemvalue="Application.L39_CombinationSum" />
         <item itemvalue="Application.L34_searchRange" />
-        <item itemvalue="Application.L32_LongestValidParentheses" />
-        <item itemvalue="Application.L31_NextPermutation" />
-        <item itemvalue="Application.test4 (1)" />
-        <item itemvalue="Application.test2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +249,9 @@
       <workItem from="1629553823632" duration="1410000" />
       <workItem from="1629607984909" duration="8153000" />
       <workItem from="1629633679570" duration="5906000" />
-      <workItem from="1629689700402" duration="9260000" />
+      <workItem from="1629689700402" duration="14271000" />
+      <workItem from="1629723703055" duration="40000" />
+      <workItem from="1629778294673" duration="10849000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -502,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628912270412</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="8.23">
+      <created>1629702594781</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1629702594781</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +491,8 @@
     <MESSAGE value="8.11" />
     <MESSAGE value="8.12" />
     <MESSAGE value="8.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.13" />
+    <MESSAGE value="8.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1016,6 +971,41 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L32_LongestValidParentheses.java</url>
           <line>12</line>
           <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L34_searchRange.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L39_CombinationSum.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>235</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L42_Trap.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L48_Rotate.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L48_Rotate.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L49_GroupAnagrams.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="224" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J18_DeleteNode.java</url>
