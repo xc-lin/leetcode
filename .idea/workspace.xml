@@ -4,30 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.24">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/CountDownDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/CyclicBarrierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/FutureDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/byteDance/最小未出现整数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L101_对称二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L102_二叉树的层序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L104_二叉树的的最大深度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L105_从前序与中序遍历序列构造二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L56_Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L62_UniquePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L64_MinPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L70_ClimbStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L72_MinDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L75_SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L76_最小覆盖子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L78_子集.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L79_单词搜索.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L84_柱状图中最大的矩形.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L94_二叉树的中序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L98_验证二叉搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/买卖股票的最佳时机.java" afterDir="false" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.26">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L114_二叉树展开为链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L124_二叉树中的最大路径和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L136_只出现一次的数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L141_环形链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L28_最长连续序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L85_最大矩形.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L96_不同的二叉搜索树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/等待池.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/买卖股票的最佳时机.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L121_买卖股票的最佳时机.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -99,7 +88,7 @@
       <recent name="com.lxc.medium.DynamicAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L84_柱状图中最大的矩形">
+  <component name="RunManager" selected="Application.等待池">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -111,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="最小未出现整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.byteDance.最小未出现整数" />
+    <configuration name="等待池" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.等待池" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.byteDance.*" />
+          <option name="PATTERN" value="com.lxc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,34 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L64_MinPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L64_MinPathSum" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.hostest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L72_MinDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L72_MinDistance" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.hostest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L76_最小覆盖子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L76_最小覆盖子串" />
+    <configuration name="L114_二叉树展开为链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L114_二叉树展开为链表" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -176,20 +139,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="L85_最大矩形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L85_最大矩形" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.hostest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.test" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.L64_MinPathSum" />
-      <item itemvalue="Application.最小未出现整数" />
-      <item itemvalue="Application.L72_MinDistance" />
-      <item itemvalue="Application.L76_最小覆盖子串" />
       <item itemvalue="Application.L84_柱状图中最大的矩形" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.L85_最大矩形" />
+      <item itemvalue="Application.L114_二叉树展开为链表" />
+      <item itemvalue="Application.等待池" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.等待池" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.L114_二叉树展开为链表" />
+        <item itemvalue="Application.L85_最大矩形" />
         <item itemvalue="Application.L84_柱状图中最大的矩形" />
-        <item itemvalue="Application.L76_最小覆盖子串" />
-        <item itemvalue="Application.L72_MinDistance" />
-        <item itemvalue="Application.最小未出现整数" />
-        <item itemvalue="Application.L64_MinPathSum" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +259,11 @@
       <workItem from="1629878045450" duration="3554000" />
       <workItem from="1629951623356" duration="10570000" />
       <workItem from="1629965554380" duration="1072000" />
-      <workItem from="1629980451588" duration="1664000" />
+      <workItem from="1629980451588" duration="22112000" />
+      <workItem from="1630054769767" duration="7476000" />
+      <workItem from="1630079649342" duration="4098000" />
+      <workItem from="1630114544494" duration="214000" />
+      <workItem from="1630114776697" duration="3748000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -489,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629792786002</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="8.26">
+      <created>1629982295787</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1629982295787</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +526,8 @@
     <MESSAGE value="8.13" />
     <MESSAGE value="8.23" />
     <MESSAGE value="8.24" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.24" />
+    <MESSAGE value="8.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1100,6 +1101,61 @@
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/src.zip!/java/util/HashMap.java</url>
           <line>644</line>
           <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/test.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L85_最大矩形.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L85_最大矩形.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L85_最大矩形.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L85_最大矩形.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L85_最大矩形.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L85_最大矩形.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L85_最大矩形.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L85_最大矩形.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L114_二叉树展开为链表.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L141_环形链表.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="259" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J18_DeleteNode.java</url>

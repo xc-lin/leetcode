@@ -1,6 +1,6 @@
 package com.lxc.hostest;
 
-public class 买卖股票的最佳时机 {
+public class L121_买卖股票的最佳时机 {
     public int maxProfit(int[] prices) {
         int min = prices[0];
         int result=0;
