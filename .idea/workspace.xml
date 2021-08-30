@@ -4,18 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.26">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L114_二叉树展开为链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L124_二叉树中的最大路径和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L136_只出现一次的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L141_环形链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L28_最长连续序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L85_最大矩形.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L96_不同的二叉搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/等待池.java" afterDir="false" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.29">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L139_单词拆分.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L142_环形链表2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L146_LRU缓存机制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L148_排序链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L152_乘积最大子数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L155_最小栈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L160_相交链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L169_多数元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L198_打家劫舍.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L200_岛屿数量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L207_课程表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L208_实现Trie_前缀树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L215_数组中的第K个最大元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L221_最大正方形.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L226_翻转二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L234_回文链表.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/买卖股票的最佳时机.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L121_买卖股票的最佳时机.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +95,7 @@
       <recent name="com.lxc.medium.DynamicAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.等待池">
+  <component name="RunManager" selected="Application.L215_数组中的第K个最大元素">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -113,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L114_二叉树展开为链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L114_二叉树展开为链表" />
+    <configuration name="L152_乘积最大子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L152_乘积最大子数组" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L84_柱状图中最大的矩形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L84_柱状图中最大的矩形" />
+    <configuration name="L215_数组中的第K个最大元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L215_数组中的第K个最大元素" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L85_最大矩形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L85_最大矩形" />
+    <configuration name="L221_最大正方形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L221_最大正方形" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -166,19 +173,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.L84_柱状图中最大的矩形" />
       <item itemvalue="Application.test" />
-      <item itemvalue="Application.L85_最大矩形" />
-      <item itemvalue="Application.L114_二叉树展开为链表" />
       <item itemvalue="Application.等待池" />
+      <item itemvalue="Application.L152_乘积最大子数组" />
+      <item itemvalue="Application.L215_数组中的第K个最大元素" />
+      <item itemvalue="Application.L221_最大正方形" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L215_数组中的第K个最大元素" />
+        <item itemvalue="Application.L221_最大正方形" />
+        <item itemvalue="Application.L152_乘积最大子数组" />
         <item itemvalue="Application.等待池" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.L114_二叉树展开为链表" />
-        <item itemvalue="Application.L85_最大矩形" />
-        <item itemvalue="Application.L84_柱状图中最大的矩形" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +270,14 @@
       <workItem from="1630054769767" duration="7476000" />
       <workItem from="1630079649342" duration="4098000" />
       <workItem from="1630114544494" duration="214000" />
-      <workItem from="1630114776697" duration="3748000" />
+      <workItem from="1630114776697" duration="4575000" />
+      <workItem from="1630121353341" duration="5572000" />
+      <workItem from="1630130706514" duration="11000" />
+      <workItem from="1630139275526" duration="7021000" />
+      <workItem from="1630162690226" duration="1125000" />
+      <workItem from="1630203413650" duration="6775000" />
+      <workItem from="1630217667288" duration="15234000" />
+      <workItem from="1630300016554" duration="1828000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -489,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629982295787</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="8.27">
+      <created>1630121247440</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1630121247440</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +548,9 @@
     <MESSAGE value="8.23" />
     <MESSAGE value="8.24" />
     <MESSAGE value="8.26" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.26" />
+    <MESSAGE value="8.27" />
+    <MESSAGE value="8.29" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.29" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1104,7 +1127,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/test.java</url>
-          <line>60</line>
+          <line>58</line>
           <option name="timeStamp" value="242" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1156,6 +1179,46 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L141_环形链表.java</url>
           <line>2</line>
           <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L152_乘积最大子数组.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L215_数组中的第K个最大元素.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L215_数组中的第K个最大元素.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L215_数组中的第K个最大元素.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L221_最大正方形.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L221_最大正方形.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L215_数组中的第K个最大元素.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L215_数组中的第K个最大元素.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="273" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J18_DeleteNode.java</url>

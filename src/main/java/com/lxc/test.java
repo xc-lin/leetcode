@@ -40,7 +40,6 @@ public class test extends test2{
         for (int i = 0; i < 6; i++) {
             list.add(i);
         }
-        ExecutorService service = Executors.newCachedThreadPool();
         System.out.println(list.get(10));
 
 
