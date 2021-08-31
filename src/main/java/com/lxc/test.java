@@ -1,5 +1,6 @@
 package com.lxc;
 
+import java.lang.reflect.InvocationTargetException;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ExecutorService;
@@ -15,14 +16,14 @@ public class test extends test2{
     public test(int set) {
         super(set);
     }
-    public void finalfuc(){
+    public void fifnalfuc(){
 
     }
     public void fuc(test2 test){
         test=new test2(-100);
         System.out.println(test.k);
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, InvocationTargetException, IllegalAccessException {
         test t=new test(10);
         test2 t2=new test2(100);
         HashMap<Integer,Integer> map=new HashMap<>();
@@ -40,8 +41,7 @@ public class test extends test2{
         for (int i = 0; i < 6; i++) {
             list.add(i);
         }
-        System.out.println(list.get(10));
-
+//        System.out.println(list.get(10));
 
 //        ReentrantLock lock=new ReentrantLock();
 //        Condition c= lock.newCondition();
@@ -66,7 +66,7 @@ class test2 {
         k=set;
     }
     protected void finalfuc(){
-
+        System.out.println(123);
     }
 
 }
