@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.30">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L283_移动零.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L297_二叉树的序列化与反序列化.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L309_最佳买卖股票时机含冷冻期.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L322_零钱兑换.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L337_打家劫舍III.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L338_比特位计数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L347_前K个高频元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test4.java" afterDir="false" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.31">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L394_字符串解码.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L399_除法求值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L406_根据身高重建队列.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +81,7 @@
       <recent name="com.lxc.JZOffer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test2">
+  <component name="RunManager" selected="Application.L406_根据身高重建队列">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -101,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L338_比特位计数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L338_比特位计数" />
+    <configuration name="L394_字符串解码" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L394_字符串解码" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -114,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.pdd.test1" />
+    <configuration name="L406_根据身高重建队列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L406_根据身高重建队列" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.pdd.*" />
+          <option name="PATTERN" value="com.lxc.hostest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,19 +159,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.L338_比特位计数" />
-      <item itemvalue="Application.test1" />
       <item itemvalue="Application.test2" />
       <item itemvalue="Application.test4" />
       <item itemvalue="Application.test3" />
+      <item itemvalue="Application.L394_字符串解码" />
+      <item itemvalue="Application.L406_根据身高重建队列" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L406_根据身高重建队列" />
+        <item itemvalue="Application.L394_字符串解码" />
         <item itemvalue="Application.test2" />
         <item itemvalue="Application.test3" />
         <item itemvalue="Application.test4" />
-        <item itemvalue="Application.test1" />
-        <item itemvalue="Application.L338_比特位计数" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +265,7 @@
       <workItem from="1630217667288" duration="15234000" />
       <workItem from="1630300016554" duration="11814000" />
       <workItem from="1630315505708" duration="2496000" />
-      <workItem from="1630374139456" duration="23156000" />
+      <workItem from="1630374139456" duration="29773000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -520,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630391768367</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="8.31">
+      <created>1630480643503</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1630480643503</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +560,8 @@
     <MESSAGE value="8.27" />
     <MESSAGE value="8.29" />
     <MESSAGE value="8.30" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.30" />
+    <MESSAGE value="8.31" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.31" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1296,6 +1296,16 @@
           <line>32</line>
           <option name="timeStamp" value="289" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L394_字符串解码.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L406_根据身高重建队列.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J18_DeleteNode.java</url>
           <line>5</line>
@@ -1313,9 +1323,6 @@
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="l1.val" />
-      </configuration>
-      <configuration name="Application">
-        <watch expression="opt[i - 1]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
