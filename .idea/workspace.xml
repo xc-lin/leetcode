@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="8.30">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L236_二叉树的最近公共祖先.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L238_除自身以外数组的乘积.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L239_滑动窗口最大值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L240_搜索二维矩阵II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L279_完全平方数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L287_寻找重复数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L300_最长递增子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L283_移动零.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L297_二叉树的序列化与反序列化.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L309_最佳买卖股票时机含冷冻期.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L322_零钱兑换.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L337_打家劫舍III.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L338_比特位计数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L347_前K个高频元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L142_环形链表2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L142_环形链表2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,14 +82,14 @@
       <recent name="com.lxc.medium" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lxc.pdd" />
       <recent name="com.lxc.Tencent" />
       <recent name="com.lxc.NetEase" />
       <recent name="com.lxc.JZOffer2" />
       <recent name="com.lxc.JZOffer" />
-      <recent name="com.lxc.medium.DynamicAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.test2">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -99,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L215_数组中的第K个最大元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L215_数组中的第K个最大元素" />
+    <configuration name="L338_比特位计数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L338_比特位计数" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -112,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L221_最大正方形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L221_最大正方形" />
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.pdd.test1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.hostest.*" />
+          <option name="PATTERN" value="com.lxc.pdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L279_完全平方数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L279_完全平方数" />
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.pdd.test2" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.hostest.*" />
+          <option name="PATTERN" value="com.lxc.pdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L287_寻找重复数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L287_寻找重复数" />
+    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.pdd.test3" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.hostest.*" />
+          <option name="PATTERN" value="com.lxc.pdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.test" />
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.pdd.test4" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.*" />
+          <option name="PATTERN" value="com.lxc.pdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,19 +167,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.L215_数组中的第K个最大元素" />
-      <item itemvalue="Application.L221_最大正方形" />
-      <item itemvalue="Application.L279_完全平方数" />
-      <item itemvalue="Application.L287_寻找重复数" />
-      <item itemvalue="Application.test" />
+      <item itemvalue="Application.L338_比特位计数" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.test2" />
+      <item itemvalue="Application.test4" />
+      <item itemvalue="Application.test3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.L287_寻找重复数" />
-        <item itemvalue="Application.L279_完全平方数" />
-        <item itemvalue="Application.L215_数组中的第K个最大元素" />
-        <item itemvalue="Application.L221_最大正方形" />
+        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.test3" />
+        <item itemvalue="Application.test4" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.L338_比特位计数" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +273,7 @@
       <workItem from="1630217667288" duration="15234000" />
       <workItem from="1630300016554" duration="11814000" />
       <workItem from="1630315505708" duration="2496000" />
-      <workItem from="1630374139456" duration="5495000" />
+      <workItem from="1630374139456" duration="23156000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -511,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630302322925</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="8.30">
+      <created>1630391768367</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1630391768367</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1252,6 +1261,41 @@
           <line>29</line>
           <option name="timeStamp" value="280" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L283_移动零.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L283_移动零.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L309_最佳买卖股票时机含冷冻期.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L322_零钱兑换.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L322_零钱兑换.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L338_比特位计数.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/pdd/test3.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J18_DeleteNode.java</url>
           <line>5</line>
@@ -1269,6 +1313,9 @@
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="l1.val" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="opt[i - 1]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
