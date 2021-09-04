@@ -1,72 +1,119 @@
 package com.lxc;
 
+import javax.swing.*;
+import java.io.*;
+import java.lang.reflect.Array;
+import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.ThreadPoolExecutor;
+import java.util.concurrent.*;
 import java.util.concurrent.atomic.LongAdder;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 
-public class test extends test2{
-    static int a =3;
+import static java.lang.Thread.enumerate;
+import static java.lang.Thread.interrupted;
 
-    public test(int set) {
-        super(set);
+public class test extends a {
+    static {
+        System.out.println(2222);
     }
-    public void fifnalfuc(){
+
+    static int a = 3;
+
+
+    public void fifnalfuc() {
 
     }
-    public void fuc(test2 test){
-        test=new test2(-100);
-        System.out.println(test.k);
+    public void print(){
+        System.out.println("b");
     }
-    public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, InvocationTargetException, IllegalAccessException {
-        test t=new test(10);
-        test2 t2=new test2(100);
-        HashMap<Integer,Integer> map=new HashMap<>();
-        for (int i = 0; i < 6; i++) {
-            map.put(i,i);
-        }
-        Iterator iter =map.keySet().iterator();
-        while (iter.hasNext()){
 
-            System.out.println(iter.next());
-            iter.remove();
+    public void k(){
+        this.print();
+        super.print();
+        print();
+    }
+    public void finalfuc(test2 test) {
+        System.out.println(666);
+    }
 
-        }
-        List<Integer> list=new ArrayList<>();
-        for (int i = 0; i < 6; i++) {
-            list.add(i);
-        }
-//        System.out.println(list.get(10));
+    public void func2() {
+        System.out.println(666);
+    }
 
-//        ReentrantLock lock=new ReentrantLock();
-//        Condition c= lock.newCondition();
-//        try {
-//            c.await();
-//        } catch (InterruptedException e) {
-//            e.printStackTrace();
-//        }
-//        Condition c1 = lock.newCondition();
-//        for (int i = 0; i <4 ; i++) {
-//            new Thread(()->{
-//                System.out.println();
-//            }).start();
-//        }
+    public static void main(String[] args) throws IOException, ClassNotFoundException {
+
+    }
+
+    private static class A implements Serializable {
+
+        private int x;
+        private String y;
+
+        A(int x, String y) {
+            this.x = x;
+            this.y = y;
+        }
+
+        @Override
+        public String toString() {
+            return "x = " + x + "  " + "y = " + y;
+        }
     }
 }
 
-class test2 {
-    static int a =1;
-    int k=100;
-    public  test2(int set){
-        k=set;
+class a{
+    public void print(){
+        System.out.println("a");
     }
-    protected void finalfuc(){
+}
+
+class test3 extends test2 {
+    public test3(int set) {
+        super(set);
+    }
+
+
+    int ok = 5;
+
+    static {
+        System.out.println(3333);
+    }
+
+
+}
+
+class ca implements Callable<Integer> {
+
+    @Override
+    public Integer call() throws Exception {
+        return null;
+    }
+}
+
+class test2 implements Cloneable {
+    static {
+        System.out.println(1111);
+    }
+
+    static int a = 1;
+    int k = 100;
+
+    public test2(int set) {
+        k = set;
+    }
+
+    public final void finalfuc() {
         System.out.println(123);
     }
 
+    public void func2() {
+        System.out.println(333);
+    }
+
+    @Override
+    protected test2 clone() throws CloneNotSupportedException {
+        return (test2) super.clone();
+    }
 }
