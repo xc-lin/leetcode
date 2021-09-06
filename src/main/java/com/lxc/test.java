@@ -43,7 +43,7 @@ public class test extends a {
     }
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
-
+        ReentrantLock lock=new ReentrantLock();
     }
 
     private static class A implements Serializable {
