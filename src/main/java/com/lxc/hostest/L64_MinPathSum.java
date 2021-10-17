@@ -1,7 +1,5 @@
 package com.lxc.hostest;
 
-import com.lxc.redBook.Main;
-
 public class L64_MinPathSum {
     public static int minPathSum(int[][] grid) {
         int m= grid.length;

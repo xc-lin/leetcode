@@ -4,19 +4,121 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="9.4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/freeWheel/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L438_找到字符串中所有字母异位词.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L461_汉明距离.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L494_目标和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L538_把二叉搜索树转换为累加树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L543_二叉树的直径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L560_和为K的子数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L581_最短无序连续子数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L617_合并二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L647_回文子串.java" afterDir="false" />
+    <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="10.17">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Microsoft/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Microsoft/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Microsoft/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/alibaba/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/alibaba/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/baidu/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/baidu/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/baidu/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/futu/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/futu/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/futu/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/j58同城/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/j58同城/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/j58同城/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/jd/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/jd/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/leyuansu/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/lilisi/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/lilisi/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/lilisi/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/meituan/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/meituan/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/meituan/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/meituan/test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/oppo/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd2/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd2/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd2/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd2/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/qunaer/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/qunaer/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/qunaer/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/shein/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/weBank/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/weBank/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/weBank/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/xiecheng/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/xiecheng/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/xiecheng/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/zoom/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/zoom/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/乐信/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/乐信/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/奇安信/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/奇安信/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/字节/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/广联达/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/渤海银行/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/渤海银行/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/烽火通信/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/烽火通信/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/烽火通信/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/瑛太莱/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/瑛太莱/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/瑛太莱/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/瑛太莱/test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/用友/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/用友/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/电信/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/电信/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/电信/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/科大讯飞/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/科大讯飞/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/达达/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/达达/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/达达/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/金山云/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/金山云/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/锐明科技/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/锐明科技/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/锐明科技/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L10_正则表达式匹配.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L312_戳气球.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L621_任务调度器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L739_每日温度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/test666.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/不熟悉的题目/L15_三数之和.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/AwaitSignalExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/BlockingQueueDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/CountDownDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/CyclicBarrierDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/ForkJoinDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/FutureDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/FutureTaskDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/NetEase/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/NetEase/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/NetEase/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/NetEase/test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Tencent/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Tencent/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Tencent/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Tencent/test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/testInterview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Tencent/testInterview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/byteDance/最小未出现整数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/byteDance/最小未出现整数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/freeWheel/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/freeWheel/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/haluo/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/haluo/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L64_MinPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L64_MinPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd/test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/redBook/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/redBook/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/redBook/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/redBook/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/redBook/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/redBook/test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/xingye/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/xingye/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/xingye/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/xingye/test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,17 +167,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/lxc/xingye" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/lxc" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/lxc/xingye" />
       <recent name="$PROJECT_DIR$/src/main/java/com/lxc" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/lxc/xingye" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -86,14 +189,14 @@
       <recent name="com.lxc.medium" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.lxc.pdd" />
-      <recent name="com.lxc.Tencent" />
-      <recent name="com.lxc.NetEase" />
-      <recent name="com.lxc.JZOffer2" />
-      <recent name="com.lxc.JZOffer" />
+      <recent name="com.lxc.Job.jd" />
+      <recent name="com.lxc.Job.pdd2" />
+      <recent name="com.lxc.Job.烽火通信" />
+      <recent name="com.lxc.Job.leyuansu" />
+      <recent name="com.lxc.Job.科大讯飞" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L647_回文子串">
+  <component name="RunManager" selected="Application.test3">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -105,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L437_路径总和III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L437_路径总和III" />
+    <configuration name="test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.Job.达达.test1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.hostest.*" />
+          <option name="PATTERN" value="com.lxc.Job.达达.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L438_找到字符串中所有字母异位词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L438_找到字符串中所有字母异位词" />
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.Job.达达.test2" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.hostest.*" />
+          <option name="PATTERN" value="com.lxc.Job.达达.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L581_最短无序连续子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L581_最短无序连续子数组" />
+    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.Job.达达.test3" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.hostest.*" />
+          <option name="PATTERN" value="com.lxc.Job.达达.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L647_回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.hostest.L647_回文子串" />
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.Job.meituan.test4" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.hostest.*" />
+          <option name="PATTERN" value="com.lxc.Job.meituan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.test" />
+    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.Job.meituan.test5" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.*" />
+          <option name="PATTERN" value="com.lxc.Job.meituan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,19 +274,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.L437_路径总和III" />
-      <item itemvalue="Application.L438_找到字符串中所有字母异位词" />
-      <item itemvalue="Application.L581_最短无序连续子数组" />
-      <item itemvalue="Application.L647_回文子串" />
+      <item itemvalue="Application.test4" />
+      <item itemvalue="Application.test5" />
+      <item itemvalue="Application.test1 (1)" />
+      <item itemvalue="Application.test2" />
+      <item itemvalue="Application.test3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L647_回文子串" />
-        <item itemvalue="Application.L581_最短无序连续子数组" />
-        <item itemvalue="Application.L438_找到字符串中所有字母异位词" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.L437_路径总和III" />
+        <item itemvalue="Application.test3" />
+        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.test1 (1)" />
+        <item itemvalue="Application.test5" />
+        <item itemvalue="Application.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -287,6 +390,62 @@
       <workItem from="1630720113553" duration="10682000" />
       <workItem from="1630817801795" duration="8250000" />
       <workItem from="1630906358745" duration="41000" />
+      <workItem from="1630913049213" duration="7590000" />
+      <workItem from="1630925352294" duration="386000" />
+      <workItem from="1630980291446" duration="7745000" />
+      <workItem from="1631067799104" duration="574000" />
+      <workItem from="1631068396395" duration="898000" />
+      <workItem from="1631090294482" duration="2164000" />
+      <workItem from="1631164359418" duration="247000" />
+      <workItem from="1631164633464" duration="548000" />
+      <workItem from="1631174975934" duration="580000" />
+      <workItem from="1631185280370" duration="7138000" />
+      <workItem from="1631240500371" duration="13000" />
+      <workItem from="1631257113262" duration="1796000" />
+      <workItem from="1631264641505" duration="6427000" />
+      <workItem from="1631339734607" duration="568000" />
+      <workItem from="1631414874298" duration="20000" />
+      <workItem from="1631429544676" duration="11889000" />
+      <workItem from="1631518650821" duration="699000" />
+      <workItem from="1631519375461" duration="4273000" />
+      <workItem from="1631591704847" duration="10607000" />
+      <workItem from="1631670109232" duration="2430000" />
+      <workItem from="1631703694539" duration="4471000" />
+      <workItem from="1631710390780" duration="188000" />
+      <workItem from="1631778835470" duration="761000" />
+      <workItem from="1631784720506" duration="1694000" />
+      <workItem from="1631797495913" duration="1031000" />
+      <workItem from="1631843289454" duration="5312000" />
+      <workItem from="1631866165090" duration="347000" />
+      <workItem from="1631879203918" duration="1300000" />
+      <workItem from="1631930480646" duration="21000" />
+      <workItem from="1631944703135" duration="4604000" />
+      <workItem from="1631971122405" duration="2824000" />
+      <workItem from="1632041200115" duration="1183000" />
+      <workItem from="1632117551033" duration="6126000" />
+      <workItem from="1632284422999" duration="1937000" />
+      <workItem from="1632294150369" duration="6800000" />
+      <workItem from="1632312713463" duration="1983000" />
+      <workItem from="1632358928237" duration="8395000" />
+      <workItem from="1632383436714" duration="2627000" />
+      <workItem from="1632391384950" duration="2958000" />
+      <workItem from="1632407284190" duration="178000" />
+      <workItem from="1632460384145" duration="668000" />
+      <workItem from="1632462328403" duration="25000" />
+      <workItem from="1632466922151" duration="63000" />
+      <workItem from="1632485913348" duration="2028000" />
+      <workItem from="1632546944387" duration="131000" />
+      <workItem from="1632560042872" duration="4757000" />
+      <workItem from="1632828581564" duration="1830000" />
+      <workItem from="1633334922723" duration="171000" />
+      <workItem from="1633335107565" duration="68000" />
+      <workItem from="1633780186202" duration="2691000" />
+      <workItem from="1633922376778" duration="11000" />
+      <workItem from="1634299241988" duration="3424000" />
+      <workItem from="1634307258796" duration="20000" />
+      <workItem from="1634350425055" duration="6363000" />
+      <workItem from="1634436094448" duration="5067000" />
+      <workItem from="1634457612432" duration="3125000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -554,7 +713,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630739933404</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="9.6">
+      <created>1630913095963</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1630913095963</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,8 +740,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="11" />
-    <MESSAGE value=" add remove LinkList element and ReverseLinkedList" />
     <MESSAGE value="add summeryRanges" />
     <MESSAGE value="add AddTwoNumbers PerfectSquares" />
     <MESSAGE value="111s" />
@@ -599,7 +763,9 @@
     <MESSAGE value="8.31" />
     <MESSAGE value="9.1" />
     <MESSAGE value="9.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.4" />
+    <MESSAGE value="9.6" />
+    <MESSAGE value="10.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1020,32 +1186,32 @@
           <option name="timeStamp" value="167" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/redBook/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/redBook/test1.java</url>
           <line>36</line>
           <option name="timeStamp" value="172" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/NetEase/test1.java</url>
           <line>22</line>
           <option name="timeStamp" value="181" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/NetEase/test1.java</url>
           <line>32</line>
           <option name="timeStamp" value="182" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test2.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/NetEase/test2.java</url>
           <line>26</line>
           <option name="timeStamp" value="183" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test2.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/NetEase/test2.java</url>
           <line>13</line>
           <option name="timeStamp" value="184" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test4.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/NetEase/test4.java</url>
           <line>60</line>
           <option name="timeStamp" value="185" />
         </line-breakpoint>
@@ -1055,17 +1221,17 @@
           <option name="timeStamp" value="186" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test2.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/Tencent/test2.java</url>
           <line>27</line>
           <option name="timeStamp" value="188" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test4.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/Tencent/test4.java</url>
           <line>14</line>
           <option name="timeStamp" value="192" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test4.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/Tencent/test4.java</url>
           <line>31</line>
           <option name="timeStamp" value="196" />
         </line-breakpoint>
@@ -1116,16 +1282,16 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L64_MinPathSum.java</url>
-          <line>21</line>
+          <line>19</line>
           <option name="timeStamp" value="225" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L64_MinPathSum.java</url>
-          <line>13</line>
+          <line>11</line>
           <option name="timeStamp" value="226" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/byteDance/最小未出现整数.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/byteDance/最小未出现整数.java</url>
           <line>9</line>
           <option name="timeStamp" value="228" />
         </line-breakpoint>
@@ -1176,7 +1342,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/test.java</url>
-          <line>62</line>
+          <line>85</line>
           <option name="timeStamp" value="242" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1330,7 +1496,7 @@
           <option name="timeStamp" value="287" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/pdd/test3.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd/test3.java</url>
           <line>32</line>
           <option name="timeStamp" value="289" />
         </line-breakpoint>
@@ -1345,7 +1511,7 @@
           <option name="timeStamp" value="295" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/xingye/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/xingye/test1.java</url>
           <line>14</line>
           <option name="timeStamp" value="296" />
         </line-breakpoint>
@@ -1378,6 +1544,306 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L647_回文子串.java</url>
           <line>22</line>
           <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/hostest/L739_每日温度.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/baidu/test2.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/xiecheng/test2.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/xiecheng/test2.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/xiecheng/test3.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/weBank/test.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/weBank/test.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/futu/test1.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/科大讯飞/test2.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/科大讯飞/test2.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/qunaer/test1.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/qunaer/test3.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/瑛太莱/test1.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/瑛太莱/test1.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/zoom/test1.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/test.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/test.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/电信/test2.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/电信/test3.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/乐信/test2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/烽火通信/test3.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/烽火通信/test2.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/oppo/test1.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/oppo/test1.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd2/test4.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd2/test3.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test1.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="364" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test2.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test3.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test3.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test3.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test3.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test3.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test3.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="374" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/奇安信/test1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/奇安信/test2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/字节/test1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/金山云/test1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/金山云/test1.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/j58同城/test1.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/j58同城/test2.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/j58同城/test3.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/j58同城/test2.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/j58同城/test2.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/j58同城/test2.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/j58同城/test2.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/jd/test1.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/jd/test1.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/alibaba/test1.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="404" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/alibaba/test2.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/alibaba/test2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="407" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/alibaba/test2.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/Microsoft/test2.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/Microsoft/test2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/渤海银行/test2.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/渤海银行/test2.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/meituan/test2.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/meituan/test4.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/meituan/test5.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/达达/test3.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="427" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J18_DeleteNode.java</url>

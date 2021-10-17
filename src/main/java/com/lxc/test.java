@@ -1,49 +1,72 @@
 package com.lxc;
 
-import javax.swing.*;
 import java.io.*;
-import java.lang.reflect.Array;
-import java.lang.reflect.Field;
-import java.lang.reflect.InvocationTargetException;
-import java.util.*;
-import java.util.concurrent.*;
-import java.util.concurrent.atomic.LongAdder;
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.ReentrantLock;
+import java.util.concurrent.Callable;
 
-import static java.lang.Thread.enumerate;
-import static java.lang.Thread.interrupted;
 
 public class test extends a {
     static {
-        System.out.println(2222);
+//        System.out.println(2222);
     }
 
     static int a = 3;
 
+    public test() {
+        setId(1);
+    }
 
+    public test(String name) {
+        System.out.println(name);
+    }
+
+    public void setId(int id){
+        setId(id);
+    }
+
+    public int getId(){
+        if (id<3){
+            return 4;
+        }
+        return id;
+    }
     public void fifnalfuc() {
 
     }
-    public void print(){
+
+    public void print() {
         System.out.println("b");
     }
 
-    public void k(){
+    public void k() {
         this.print();
-        super.print();
         print();
     }
-    public void finalfuc(test2 test) {
-        System.out.println(666);
-    }
 
-    public void func2() {
-        System.out.println(666);
+    String userName = "A";
+    int age = 18;
+    public static int count = 1;
+
+    public int add(int a, int b) {
+        try {
+            return a + b;
+        } catch (Exception e) {
+            System.out.println("catch");
+        } finally {
+            System.out.println("finally");
+        }
+        return 0;
     }
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
-        ReentrantLock lock=new ReentrantLock();
+
+
+    }
+
+    void change(int age, int count, String userName) {
+        age++;
+        count++;
+        System.out.print(age + "," + count + ",");
+        userName = "B";
     }
 
     private static class A implements Serializable {
@@ -63,25 +86,65 @@ public class test extends a {
     }
 }
 
-class a{
-    public void print(){
-        System.out.println("a");
+class a {
+    protected int id;
+
+    public a(){
+        id=2;
+    }
+    public int getId(){
+        if (id<3){
+            return 3;
+        }
+        return id;
+    }
+    public void setId(int id){
+        this.id=id;
     }
 }
 
+class MyException {
+
+}
+
+class Me {
+    public void drink() {
+
+    }
+}
+
+
 class test3 extends test2 {
+    public test3() {
+        super();
+
+    }
+
     public test3(int set) {
         super(set);
+        System.out.println("子类构造函数");
     }
 
 
     int ok = 5;
 
     static {
-        System.out.println(3333);
+        System.out.println("子类静态代码块");
+    }
+
+    {
+        System.out.println("子类代码块");
     }
 
 
+}
+
+class addr {
+    String postCode;
+}
+
+class student {
+    addr ad;
 }
 
 class ca implements Callable<Integer> {
@@ -94,14 +157,27 @@ class ca implements Callable<Integer> {
 
 class test2 implements Cloneable {
     static {
-        System.out.println(1111);
+        System.out.println("父类静态代码块");
     }
 
     static int a = 1;
     int k = 100;
 
+    private static void kk() {
+        System.out.println(123123);
+    }
+
+    public test2() {
+
+    }
+
     public test2(int set) {
         k = set;
+        System.out.println("父类构造函数");
+    }
+
+    {
+        System.out.println("父类代码块");
     }
 
     public final void finalfuc() {
@@ -113,7 +189,7 @@ class test2 implements Cloneable {
     }
 
     @Override
-    protected test2 clone() throws CloneNotSupportedException {
-        return (test2) super.clone();
+    protected test666 clone() throws CloneNotSupportedException {
+        return (test666) super.clone();
     }
 }
