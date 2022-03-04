@@ -8,6 +8,7 @@ public class test extends a {
     static {
 //        System.out.println(2222);
     }
+    private final Integer num = 1;
 
     static int a = 3;
 
@@ -58,7 +59,6 @@ public class test extends a {
     }
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
-
 
     }
 

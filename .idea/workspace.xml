@@ -5,125 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ae6146-2458-41e2-8edc-a77da6d516a6" name="Default Changelist" comment="10.17">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Microsoft/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Microsoft/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Microsoft/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/alibaba/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/alibaba/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/baidu/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/baidu/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/baidu/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/futu/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/futu/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/futu/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/j58同城/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/j58同城/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/j58同城/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/jd/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/jd/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/leyuansu/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/lilisi/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/lilisi/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/lilisi/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/meituan/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/meituan/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/meituan/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/meituan/test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/oppo/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd2/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd2/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd2/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd2/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/qunaer/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/qunaer/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/qunaer/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/shein/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/weBank/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/weBank/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/weBank/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/xiecheng/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/xiecheng/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/xiecheng/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/zoom/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/zoom/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/乐信/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/乐信/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/博乐科技/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/奇安信/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/奇安信/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/字节/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/广联达/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/渤海银行/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/渤海银行/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/烽火通信/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/烽火通信/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/烽火通信/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/瑛太莱/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/瑛太莱/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/瑛太莱/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/瑛太莱/test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/用友/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/用友/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/电信/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/电信/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/电信/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/科大讯飞/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/科大讯飞/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/达达/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/达达/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/达达/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/金山云/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/金山云/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/锐明科技/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/锐明科技/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/锐明科技/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L10_正则表达式匹配.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L312_戳气球.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L621_任务调度器.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L739_每日温度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/test666.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/不熟悉的题目/L15_三数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/有赞/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/有赞/test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/AwaitSignalExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/BlockingQueueDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/CountDownDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/CyclicBarrierDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/ForkJoinDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/FutureDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/FutureTaskDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/NetEase/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/NetEase/test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/NetEase/test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/NetEase/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/NetEase/test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Tencent/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Tencent/test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Tencent/test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Tencent/test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/Tencent/testInterview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/Tencent/testInterview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/byteDance/最小未出现整数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/byteDance/最小未出现整数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/freeWheel/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/freeWheel/test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/haluo/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/haluo/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L64_MinPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/hostest/L64_MinPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd/test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd/test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/pdd/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/pdd/test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/redBook/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/redBook/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/redBook/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/redBook/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/redBook/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/redBook/test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/xingye/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/xingye/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxc/xingye/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxc/Job/xingye/test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -151,6 +44,9 @@
     <setting file="file://$PROJECT_DIR$/src/test/java/com/lxc/JZOffer/testJ47_MaxValue.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/lxc/medium/DynamicAlgorithm/testLongestPalindromicSubstring.java" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="1tf3OXg79iDA3tfcRlrhiIKWlc3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -173,7 +69,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -196,7 +92,7 @@
       <recent name="com.lxc.Job.科大讯飞" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test3">
+  <component name="RunManager" selected="Application.test3 (1)">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -208,12 +104,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.Job.达达.test1" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.test" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxc.Job.达达.*" />
+          <option name="PATTERN" value="com.lxc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.Job.有赞.test1" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.Job.有赞.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,6 +143,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxc.Job.leyuansu.test3" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxc.Job.leyuansu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lxc.Job.达达.test3" />
       <module name="leetcode" />
@@ -247,46 +169,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.Job.meituan.test4" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.Job.meituan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxc.Job.meituan.test5" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxc.Job.meituan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.test4" />
-      <item itemvalue="Application.test5" />
-      <item itemvalue="Application.test1 (1)" />
       <item itemvalue="Application.test2" />
       <item itemvalue="Application.test3" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.test3 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test3 (1)" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.test1" />
         <item itemvalue="Application.test3" />
         <item itemvalue="Application.test2" />
-        <item itemvalue="Application.test1 (1)" />
-        <item itemvalue="Application.test5" />
-        <item itemvalue="Application.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -445,7 +341,14 @@
       <workItem from="1634307258796" duration="20000" />
       <workItem from="1634350425055" duration="6363000" />
       <workItem from="1634436094448" duration="5067000" />
-      <workItem from="1634457612432" duration="3125000" />
+      <workItem from="1634457612432" duration="4242000" />
+      <workItem from="1634469629871" duration="4024000" />
+      <workItem from="1634473830163" duration="621000" />
+      <workItem from="1634525020613" duration="388000" />
+      <workItem from="1640670563604" duration="382000" />
+      <workItem from="1645417149854" duration="49000" />
+      <workItem from="1645602520568" duration="723000" />
+      <workItem from="1645663951361" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1623148111220</created>
@@ -720,7 +623,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630913095963</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="10.17">
+      <created>1634460865095</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1634460865095</updated>
+    </task>
+    <task id="LOCAL-00041" summary="10.17">
+      <created>1634460882269</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1634460882269</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1622,7 +1539,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/test.java</url>
-          <line>26</line>
+          <line>27</line>
           <option name="timeStamp" value="343" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1844,6 +1761,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/达达/test3.java</url>
           <line>34</line>
           <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/有赞/test1.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lxc/Job/有赞/test1.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="435" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/lxc/JZOffer2/J18_DeleteNode.java</url>
